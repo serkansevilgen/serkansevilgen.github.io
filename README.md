@@ -1,1 +1,0 @@
-# Serkan Sevilgen
