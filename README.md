@@ -16,17 +16,18 @@ Audification of his own abstract photography works and manipulation of images wi
 He is currently the Director of Engineering at [Temblor, Inc](https://temblor.net/) (A Silicon Valley company develops data models for natural hazard risk assessment) and master’s student for Sonic Arts at Center for Advanced Studies in Music (MIAM), Istanbul Technical University and master's student at Music and Performing Arts, Yildiz Technical University.
 
 For music  
-https://open.spotify.com/artist/5MIcETr17tCFDKZ2ZOBgT9  
-https://soundcloud.com/serkansevilgen
+[Spotify](https://open.spotify.com/artist/5MIcETr17tCFDKZ2ZOBgT9), [Apple Music](https://music.apple.com/us/artist/serkan-sevilgen/1477675502), [Amazon](https://www.amazon.com/s?k=Serkan+Sevilgen&i=digital-music&search-type=ss&ref=ntt_srch_drd_B07X2F3X18)  
+[soundcloud.com/serkansevilgen](https://soundcloud.com/serkansevilgen)
+
 
 Programming experience  
-https://www.linkedin.com/in/serkansevilgen
+[linkedin.com/in/serkansevilgen](https://www.linkedin.com/in/serkansevilgen)
 
 Visual works  
-https://www.instagram.com/serkansevilgen/
+[instagram.com/serkansevilgen](https://www.instagram.com/serkansevilgen/)
 
 An abstract video work resembles his soundscape composition methodology  
-https://vimeo.com/104819975
+[https://vimeo.com/104819975](https://vimeo.com/104819975)
 
 
 
