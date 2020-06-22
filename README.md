@@ -69,8 +69,8 @@ The project with Fulya Ucanok, "The Curtain & Beyond" is accepted to the festiva
 - **MIAM Current Studies in Music Colloquium** 16 June 2020  
 Presented a research paper "A Tool for Network Music"  
 
-- **Share the Sound Concert**    
-Presented my binaural, acousmatic piece "Transfigured Walls". 11 June 2020  
+- **Share the Sound Concert** 11 June 2020   
+Presented my binaural, acousmatic piece "Transfigured Walls".   
 [Facebook Live Streaming](https://www.facebook.com/events/2877810805607090/permalink/2878794442175393/)  
 
 - **International Hisarli Ahmet Symposium** Posponed to April 2021  
