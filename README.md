@@ -70,8 +70,6 @@ On the 3rd installment of event series by The Istanbul Soundscape Project, a new
 Csound is one of the most widely used software sound synthesis systems. The purpose of the workshop is to introduce participants to the text-based
 audio programming, digital sound synthesis techniques, and computer-aided composition
 strategies.  
-30 June 2020 (in Turkish)  
-7 July 2020 (in English)  
 
 - **MIAM Current Studies in Music Colloquium** 16 June 2020  
 Presented a research paper "A Tool for Network Music"  
@@ -81,7 +79,7 @@ Presented a research paper "A Tool for Network Music"
 Presented my binaural, acousmatic piece "Transfigured Walls".   
 [Facebook Live Streaming](https://www.facebook.com/events/2877810805607090/permalink/2878794442175393/)  
 
-- **International Hisarli Ahmet Symposium** Posponed to April 2021  
+- **International Hisarli Ahmet Symposium** Postponed to April 2021  
 A research paper on interactive image sonification will be presented  
 [Symposium website](https://hisas.org.tr/en/)
 
@@ -101,7 +99,7 @@ Fulya Uçanok and Serkan Sevilgen are a duo who is fascinated by microscopic det
 Electroacoustic miniature piece, "Image sonification In Memoriam Ertugrul Oguz Firat" was presented  
 [Event poster](https://www.instagram.com/p/B8ZGUBegJji/)  
 
-- **Sonic Tales from the Crypt Concert** 26 December 2020  
+- **Sonic Tales from the Crypt Concert** 26 December 2019  
 Multichannel (octophonic), site-specific piece was presented  
 [Event poster](https://www.instagram.com/p/B6NnJy4ALmL/)  
 [Event website](http://www.etkinlik.itu.edu.tr/EtkinlikDetay.aspx?etkinlik=1691)  
