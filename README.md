@@ -15,10 +15,8 @@ He is currently the Director of Engineering at [Temblor, Inc](https://temblor.ne
 
 His interests are computer music, algorithmic composition, sonification, improvisation, network music and spatial audio.  
 
-**Music**  
-[Spotify](https://open.spotify.com/artist/5MIcETr17tCFDKZ2ZOBgT9), [Apple Music](https://music.apple.com/us/artist/serkan-sevilgen/1477675502), [Amazon](https://www.amazon.com/s?k=Serkan+Sevilgen&i=digital-music&search-type=ss&ref=ntt_srch_drd_B07X2F3X18)  
-[soundcloud.com/serkansevilgen](https://soundcloud.com/serkansevilgen)
-
+[Recent Music](#recent-music)  
+[Events](#events)  
 
 **Programming experience**  
 [linkedin.com/in/serkansevilgen](https://www.linkedin.com/in/serkansevilgen)
@@ -53,6 +51,11 @@ Strong wind noise recorded without a windshield at the ferry.
 Stereo and binaural field recordings over the years  
 <iframe width="300" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/410693213&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>  
 
+- **All Music/Sound related art**  
+[soundcloud.com/serkansevilgen](https://soundcloud.com/serkansevilgen)  
+[Spotify](https://open.spotify.com/artist/5MIcETr17tCFDKZ2ZOBgT9), [Apple Music](https://music.apple.com/us/artist/serkan-sevilgen/1477675502), [Amazon](https://www.amazon.com/s?k=Serkan+Sevilgen&i=digital-music&search-type=ss&ref=ntt_srch_drd_B07X2F3X18)  
+
+
 ## Events
 
 - **Network Music Festival** 15 - 18 July 2020  
@@ -60,14 +63,19 @@ The project with Fulya Ucanok, "The Curtain & Beyond" is accepted to the festiva
 [Festival website](https://networkmusicfestival.org/)  
 
 - **The Istanbul Soundscape Project Event: A Railway Station in Haydarpaşa** 4 July 2020  
+On the 3rd installment of event series by The Istanbul Soundscape Project, a new acousmatic piece will be presented.  
 [Facebook event page](https://www.facebook.com/events/514446875786912/)  
 
 - **Audio Programming with Csound Workshop** 30 June & 7 July 2020  
-30 June (in Turkish)  
-7 July (in English)  
+Csound is one of the most widely used software sound synthesis systems. The purpose of the workshop is to introduce participants to the text-based
+audio programming, digital sound synthesis techniques, and computer-aided composition
+strategies.  
+30 June 2020 (in Turkish)  
+7 July 2020 (in English)  
 
 - **MIAM Current Studies in Music Colloquium** 16 June 2020  
 Presented a research paper "A Tool for Network Music"  
+[Poster and abstract](https://www.instagram.com/p/CBfX81AgG5M/)  
 
 - **Share the Sound Concert** 11 June 2020   
 Presented my binaural, acousmatic piece "Transfigured Walls".   
