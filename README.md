@@ -3,15 +3,17 @@ Computer programmer/composer
 [ssevilgen@gmail.com](mailto:ssevilgen@gmail.com)  
 
 
-Serkan Sevilgen is an Istanbul-based computer programmer and composer. He studied Music Technology at Audio Design program, Yildiz Technical University, where he developed an interest in computer music. He developed programming skills and worked with Csound for digital audio synthesis and Lisp for algorithmic composition. After graduation, he founded his own software company and pursued a career in this area. He also created field recordings and soundscape compositions and his works published in the World Listening Day compilations. He is experienced in many programming languages (including music-specific ones like Csound, MaxMSP, and Supercollider), databases, cloud platforms, and Linux operating systems.  
+Serkan Sevilgen is an Istanbul-based computer programmer and composer. He studied Music Technology at Audio Design program, Yildiz Technical University, where he developed an interest in computer music. He developed programming skills and worked with Csound for digital audio synthesis and Lisp for algorithmic composition. After graduation, he founded his own software company and pursued a career in this area. He also created field recordings and soundscape compositions and his works published in the World Listening Day compilations.   
 
 He co-started [Soundinit](http://soundinit.org/) with the aim of creating a collective sound works and raising awareness for the sonic environment with the electroacoustic composer and pianist Fulya Ucanok. They organize sound walks and perform as a live acousmatic duo which explores microscopic details of sound objects in their recent project [“The Curtain & Beyond”](https://www.youtube.com/watch?v=SM00ODRLF5I).  
 
 He is a member of the [Istanbul Coding Ensemble (ICE)](https://www.facebook.com/Istanbul-Coding-Ensemble-375265176405893/) which is the home laptop group of [ITU/MIAM](https://www.miam.itu.edu.tr/). It was founded in 2018 with a focus on improvisation with musical algorithms using 'just-in-time' programming techniques and real-time communication with ad-hoc network music systems.  
 
-Audification of his own abstract photography works and manipulation of images with audio devices like reverb and filters helps him to cross between visual and aural worlds. His recent interests are computer music, soundscapes, algorithmic composition, sonification, improvisation, and spatial audio.  
+Audification of his own abstract photography works and manipulation of images with audio devices like reverb and filters helps him to cross between visual and aural worlds.  
 
-He is currently the Director of Engineering at [Temblor, Inc](https://temblor.net/) (A Silicon Valley company develops data models for natural hazard risk assessment) and master’s student for Sonic Arts at Center for Advanced Studies in Music (MIAM), Istanbul Technical University and master's student at Music and Performing Arts, Yildiz Technical University.  
+He is currently the Director of Engineering at [Temblor, Inc](https://temblor.net/) (A Silicon Valley company develops data models for natural hazard risk assessment) and master’s student for Sonic Arts at Center for Advanced Studies in Music (MIAM), Istanbul Technical University and master's student at Music and Performing Arts, Yildiz Technical University. He is experienced in many programming languages (including music-specific ones like Csound, MaxMSP, and Supercollider), databases, cloud platforms, and Linux operating systems.    
+
+His interests are computer music, algorithmic composition, sonification, improvisation, network music and spatial audio.  
 
 **Music**  
 [Spotify](https://open.spotify.com/artist/5MIcETr17tCFDKZ2ZOBgT9), [Apple Music](https://music.apple.com/us/artist/serkan-sevilgen/1477675502), [Amazon](https://www.amazon.com/s?k=Serkan+Sevilgen&i=digital-music&search-type=ss&ref=ntt_srch_drd_B07X2F3X18)  
@@ -66,7 +68,7 @@ The project with Fulya Ucanok, "The Curtain & Beyond" is accepted to the festiva
 
 - **MIAM Current Studies in Music Colloquium** 16 June 2020  
 Presented a research paper "A Tool for Network Music"  
-  
+
 - **Share the Sound Concert**    
 Presented my binaural, acousmatic piece "Transfigured Walls". 11 June 2020  
 [Facebook Live Streaming](https://www.facebook.com/events/2877810805607090/permalink/2878794442175393/)  
@@ -85,22 +87,22 @@ Fulya Uçanok and Serkan Sevilgen are a duo who is fascinated by microscopic det
 
 - **Presentation in  "Space in  Art and Design" class at Mimar Sinan University** 6 May 2020  
 "Spatial Sound and Music" was presented to Prof. Lebriz Rona's master degree course students  
-[Related Instagram post](https://www.instagram.com/p/B_2jIeRgQIY/)  
+[Related post](https://www.instagram.com/p/B_2jIeRgQIY/)  
 
 - **In  Memory of Ertugrul Oguz Firat Concert** 10 February 2020  
 Electroacoustic miniature piece, "Image sonification In Memoriam Ertugrul Oguz Firat" was presented  
 [Event poster](https://www.instagram.com/p/B8ZGUBegJji/)  
 
 - **Sonic Tales from the Crypt Concert** 26 December 2020  
-Octophonic, site-specific piece was presented  
+Multichannel (octophonic), site-specific piece was presented  
 [Event poster](https://www.instagram.com/p/B6NnJy4ALmL/)  
 [Event website](http://www.etkinlik.itu.edu.tr/EtkinlikDetay.aspx?etkinlik=1691)  
-[Related post](https://www.instagram.com/p/B6nVfzbg7tm/)  
-[Related post](https://www.instagram.com/p/B6nVMWyAVNt/)  
+[Related post](https://www.instagram.com/p/B6nVfzbg7tm/) [Related post](https://www.instagram.com/p/B6nVMWyAVNt/)  
+
 
 - **Acousmatic Concert** 31 October 2019  
 An acousmatic piece was presented  
-[Related Instagram post](https://www.instagram.com/p/B4VEsdQgMh3/)  
+[Related post](https://www.instagram.com/p/B4VEsdQgMh3/)  
 
 - **Take the Aid Train** 20 October 2019  
 A musique concrete improvisation with Fulya Ucanok during the experimental music event at Bova Jazz Club, Istanbul  
