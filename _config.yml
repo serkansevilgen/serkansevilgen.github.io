@@ -1,13 +1,9 @@
 theme: minima
 title: Serkan Sevilgen
-footer-links:
-  github: serkansevilgen
-  soundcloud: serkansevilgen
-  instagram: serkansevilgen
-  facebook: aserkansevilgen
-  linkedin: serkansevilgen
-
-header_pages:
-  - #about
-  - #recent-music
-  - #recent-events
+minima:
+  social_links:
+    soundcloud: serkansevilgen
+    github: serkansevilgen
+    facebook: sserkansevilgen
+    instagram: serkansevilgen
+    linkedin: serkansevilgen
