@@ -1,13 +1,11 @@
 theme: minima
 title: Serkan Sevilgen
+description: Serkan Sevilgen computer programmer and composer
 minima:
   social_links:
-    soundcloud: serkansevilgen
-    github: serkansevilgen
-    facebook: sserkansevilgen
     instagram: serkansevilgen
     linkedin: serkansevilgen
-
+    facebook: aserkansevilgen
 header_pages:
   - readme.md
   - music.md
