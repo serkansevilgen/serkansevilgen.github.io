@@ -7,3 +7,8 @@ minima:
     facebook: sserkansevilgen
     instagram: serkansevilgen
     linkedin: serkansevilgen
+
+header_pages:
+  - readme.md
+  - music.md
+  - events.nd
