@@ -1,3 +1,7 @@
+---
+title: About
+---
+
 Serkan Sevilgen is an Istanbul-based computer programmer and composer. He studied Music Technology at Audio Design program, Yildiz Technical University, where he developed an interest in computer music. He developed programming skills and worked with Csound for digital audio synthesis and Lisp for algorithmic composition. After graduation, he founded his own software company and pursued a career in this area. He also created field recordings and soundscape compositions and his works published in the World Listening Day compilations.   
 
 He co-started [Soundinit](http://soundinit.org/) with the aim of creating a collective sound works and raising awareness for the sonic environment with the electroacoustic composer and pianist Fulya Ucanok. They organize sound walks and perform as a live acousmatic duo which explores microscopic details of sound objects in their recent project [“The Curtain & Beyond”](https://www.youtube.com/watch?v=SM00ODRLF5I).  
