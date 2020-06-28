@@ -1,4 +1,6 @@
-# About
+---
+Title: About
+---
 
 Serkan Sevilgen is an Istanbul-based computer programmer and composer. He studied Music Technology at Audio Design program, Yildiz Technical University, where he developed an interest in computer music. He developed programming skills and worked with Csound for digital audio synthesis and Lisp for algorithmic composition. After graduation, he founded his own software company and pursued a career in this area. He also created field recordings and soundscape compositions and his works published in the World Listening Day compilations.   
 

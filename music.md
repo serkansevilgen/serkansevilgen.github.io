@@ -1,4 +1,12 @@
-# Recent Music
+---
+Title: Music
+---
+## All Music/Sound related art
+
+[soundcloud.com/serkansevilgen](https://soundcloud.com/serkansevilgen)  
+[Spotify](https://open.spotify.com/artist/5MIcETr17tCFDKZ2ZOBgT9), [Apple Music](https://music.apple.com/us/artist/serkan-sevilgen/1477675502), [Amazon](https://www.amazon.com/s?k=Serkan+Sevilgen&i=digital-music&search-type=ss&ref=ntt_srch_drd_B07X2F3X18)  
+
+
 ## Transfigured Walls
 *Binaural, fixed media, 2020*  
 
@@ -71,7 +79,3 @@ Stereo and binaural field recordings over the years
 
 <iframe width="300" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/410693213&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>  
 
-## All Music/Sound related art
-
-[soundcloud.com/serkansevilgen](https://soundcloud.com/serkansevilgen)  
-[Spotify](https://open.spotify.com/artist/5MIcETr17tCFDKZ2ZOBgT9), [Apple Music](https://music.apple.com/us/artist/serkan-sevilgen/1477675502), [Amazon](https://www.amazon.com/s?k=Serkan+Sevilgen&i=digital-music&search-type=ss&ref=ntt_srch_drd_B07X2F3X18)  
