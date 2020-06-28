@@ -2,8 +2,6 @@
 title: Recent Events
 ---
 
-# Recent Events
-
 - **Network Music Festival** 15 - 18 July 2020  
 The project with Fulya Ucanok, "The Curtain & Beyond" is accepted to the festival.  
 [Festival website](https://networkmusicfestival.org/)  
