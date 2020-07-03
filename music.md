@@ -16,7 +16,7 @@ During the COVID-19 pandemic composers and musicians persevere with producing ne
 It was presented during the Share the Sound Concert which was streamed live on Facebook.  
 
 Audio:  
-[https://soundcloud.com/serkansevilgen/transfigured-walls-a-binaural-acousmatic-piece-use-earphones](https://soundcloud.com/serkansevilgen/transfigured-walls-a-binaural-acousmatic-piece-use-earphones)
+<https://soundcloud.com/serkansevilgen/transfigured-walls-a-binaural-acousmatic-piece-use-earphones>
 
 <iframe width="300" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/839644567&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>  
 
@@ -28,7 +28,7 @@ This piece was composed in memory of the Turkish composer, painter, and poet Ert
 It was presented during the homage concert on 10 February 2020  at ITU/MIAM Library.
  
 Audio:  
-[https://soundcloud.com/serkansevilgen/image-sonification-in-memoriam-ertugrul-oguz-firat](https://soundcloud.com/serkansevilgen/image-sonification-in-memoriam-ertugrul-oguz-firat)
+<https://soundcloud.com/serkansevilgen/image-sonification-in-memoriam-ertugrul-oguz-firat>
 
 
 <iframe width="300" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/839640145&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe>  
@@ -42,7 +42,7 @@ This piece is composed for an 8-channel diffusion system in which speakers are s
 It was presented during the “Sonic Tales from the Crypt” concert on 26 December 2019 at ITU/MIAM Gallery.
  
 Audio (Stereo render):  
-[https://soundcloud.com/serkansevilgen/octophonic-site-specific-piece-for-the-miam-gallery](https://soundcloud.com/serkansevilgen/octophonic-site-specific-piece-for-the-miam-gallery)
+<https://soundcloud.com/serkansevilgen/octophonic-site-specific-piece-for-the-miam-gallery>
 
 <iframe width="300" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/734592391&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe>  
 
@@ -56,27 +56,32 @@ They find their roots and inspirations in early electroacoustic music, musique c
 From 18 May 2020 Facebook Live Stream Concert
 
 Audio:  
-[https://soundcloud.com/serkansevilgen/the-curtain-and-beyond-fulya-ucanok-serkan-sevilgen-may-18-2020-facebook-live-stream-concert](https://soundcloud.com/serkansevilgen/the-curtain-and-beyond-fulya-ucanok-serkan-sevilgen-may-18-2020-facebook-live-stream-concert)
+<https://soundcloud.com/serkansevilgen/the-curtain-and-beyond-fulya-ucanok-serkan-sevilgen-may-18-2020-facebook-live-stream-concert>
 
 Video:  
-[https://www.facebook.com/watch/live/?v=2930165690430538&ref=watch_permalink ](https://www.facebook.com/watch/live/?v=2930165690430538&ref=watch_permalink )
+<https://www.facebook.com/watch/live/?v=2930165690430538&ref=watch_permalink>
 
 <iframe width="300" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/844727287&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe>  
 
 ## Spectral Collage
-*Sound installation, 2019*
+*4 layers of audio from Istanbul, single cutoff frequency, 23 min. (fast-forwarded)*  
+
+Proof-of-concept render of a sound installation work that is supposed to be run for the duration of an exhibition. Layers of sounds from field recordings of a city/site are torn down gradually with a very steep-sloped, brick wall type filter. After a while what we hear is slow but everchanging frequencies which any audio layers can hardly be distinguishable. 
+
+<https://soundcloud.com/serkansevilgen/spectral-collage-render-1>
+
 
 <iframe width="300" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/638995683&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe>  
 
 ## Strng Wnd
-*Soundscape, 2019*
+*Soundscape, 2019*  
 
-Strong wind noise recorded without a windshield at the ferry.  
+I try to detect and record soundscapes that resemble my ideas of sound design and composition. Awareness of sonic environment and making decisions, what and how to record makes recording more like a compositional process. In this track I have removed the wind shield from Sennheiser MKH 416 shotgun microphone and exposed it to a very strong wind.
 
 <iframe width="300" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/608286945&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe>  
 
 ## Various Field Recordings
-Stereo and binaural field recordings over the years  
+Mono, stereo and binaural field recordings over the years  
 
 <iframe width="300" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/410693213&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>  
 
