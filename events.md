@@ -51,7 +51,7 @@ Multichannel (octophonic), site-specific piece was presented
 [Related post](https://www.instagram.com/p/B6nVfzbg7tm/) [Related post](https://www.instagram.com/p/B6nVMWyAVNt/)  
 
 - **Acousmatic Concert** 31 October 2019  
-An acousmatic piece composed for this concert was presented at MIAM studio.
+The acousmatic piece, realized in MaxMSP, composed for this concert was presented at MIAM studio.  
 [Related post](https://www.instagram.com/p/B4VEsdQgMh3/)  
 
 - **Take the Aid Train** 20 October 2019  
@@ -64,7 +64,7 @@ Led a soundwalk with Fulya Ucanok in Soundinit event.
 [Facebook event page](https://www.facebook.com/soundinit.istanbul/posts/395069201100077)  
 
 - **Istanbul Soundscape Project Event** 25 April 2019  
-A soundcape composition "Strng Wnd"" was presented  
+A soundcape composition "Strng Wnd" was presented  
 [Event poster](https://www.instagram.com/p/BwrnYKcgpVr/)  
 [Video](https://www.facebook.com/watch/?v=391104311474341)  
 
