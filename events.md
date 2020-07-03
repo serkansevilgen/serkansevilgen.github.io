@@ -12,8 +12,8 @@ The 3rd installment of event series by The Istanbul Soundscape Project
 [Facebook event page](https://www.facebook.com/events/514446875786912/)  
 
 - **Network Music Festival** 16 July 2020  
-The project with Fulya Ucanok, "The Curtain & Beyond" performs
-[Artists' page](https://networkmusicfestival.org/programme/performances/fulya-ucanok-and-serkan-sevilgen-the-curtain-and-beyond/)
+The project with Fulya Ucanok, "The Curtain & Beyond" will be performed live  
+[Artists' page](https://networkmusicfestival.org/programme/performances/fulya-ucanok-and-serkan-sevilgen-the-curtain-and-beyond/)  
 [Festival website](https://networkmusicfestival.org/)  
 
 - **MIAM Current Studies in Music Colloquium** 16 June 2020  
@@ -60,7 +60,7 @@ A musique concrete improvisation with Fulya Ucanok during the experimental music
 [Video](https://www.instagram.com/p/B4Cv8kDgnCB/)  
 
 - **Soundwalk** 8 June 2019  
-Led a soundwalk with Fulya Ucanok in Soundinit event.
+Led a soundwalk with Fulya Ucanok in Soundinit event.  
 [Facebook event page](https://www.facebook.com/soundinit.istanbul/posts/395069201100077)  
 
 - **Istanbul Soundscape Project Event** 25 April 2019  
