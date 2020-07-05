@@ -43,11 +43,9 @@ It was presented during the “Sonic Tales from the Crypt” concert on 26 Decem
 ## A tele-acousmatic improvisation with Fulya Ucanok
 *improvisation, acousmatic, 2020*  
 
-<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/844727287&color=%23546074&inverse=false&auto_play=false"></iframe>  
-
 From 18 May 2020 Facebook Live Stream Concert
 
-Audio:  
+<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/844727287&color=%23546074&inverse=false&auto_play=false"></iframe>  
 <https://soundcloud.com/serkansevilgen/the-curtain-and-beyond-fulya-ucanok-serkan-sevilgen-may-18-2020-facebook-live-stream-concert>
 
 Video:  
