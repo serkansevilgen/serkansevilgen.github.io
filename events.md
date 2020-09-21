@@ -2,17 +2,23 @@
 title: Recent Events
 ---
 
-- **Audio Programming with Csound Workshop** Date will be announced  
-Csound is one of the most widely used software sound synthesis systems. The purpose of the workshop is to introduce participants to the text-based
-audio programming, digital sound synthesis techniques, and computer-aided composition
-strategies.  
+<!-- - **Audio Programming with Csound Workshop** Date will be announced   -->
+<!-- Csound is one of the most widely used software sound synthesis systems. The purpose of the workshop is to introduce participants to the text-based -->
+<!-- audio programming, digital sound synthesis techniques, and computer-aided composition -->
+<!-- strategies.   -->
 
-- **A Railway Station in Haydarpaşa** 15 September 2020  
+- **A Railway Station in Haydarpaşa** 2021  
 The 3rd installment of event series by The Istanbul Soundscape Project  
 [Facebook event page](https://www.facebook.com/events/514446875786912/)  
 
-- **Network Music Festival** 16 July 2020  
-The project with Fulya Ucanok, "The Curtain & Beyond" will be performed live  
+- **SIIDS - Sound, Image and Interaction Design Symposium**   
+Funchal (Portugal) - 4th September, 2020  
+My piece “Image Sonification in memoriam Ertuğrul Oğuz Fırat” was presented on exhibition section during the symposium.  
+[SIIDS exhibition](https://siids.arditi.pt/exhibition/)
+
+- **Network Music Festival**  
+Birmingham (England, UK) - 16 July 2020  
+The project with Fulya Ucanok, "The Curtain & Beyond" was performed live  
 [Artists' page](https://networkmusicfestival.org/programme/performances/fulya-ucanok-and-serkan-sevilgen-the-curtain-and-beyond/)  
 [Festival website](https://networkmusicfestival.org/)  
 
