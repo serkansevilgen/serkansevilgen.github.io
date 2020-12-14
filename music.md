@@ -18,6 +18,8 @@ During the COVID-19 pandemic composers and musicians persevere with producing ne
 
 It was presented during the Share the Sound Concert which was streamed live on Facebook.  
 
+Also it was presented in the exhibition section at SIIDS - Sound, Image and Interaction Design Symposium, Funchal (Portugal) - 4th September, 2020  
+
 ## Image sonification in memoriam Ertuğrul Oğuz Fırat
 *Fixed media, 2020*
 

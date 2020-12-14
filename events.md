@@ -21,6 +21,7 @@ Birmingham (England, UK) - 16 July 2020
 The project with Fulya Ucanok, "The Curtain & Beyond" was performed live  
 [Artists' page](https://networkmusicfestival.org/programme/performances/fulya-ucanok-and-serkan-sevilgen-the-curtain-and-beyond/)  
 [Festival website](https://networkmusicfestival.org/)  
+[Performance video on YouTube](https://www.youtube.com/watch?v=u9f-rb_YWTo)
 
 - **MIAM Current Studies in Music Colloquium** 16 June 2020  
 Presented a research paper "A Tool for Network Music"  
