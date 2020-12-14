@@ -18,8 +18,6 @@ During the COVID-19 pandemic composers and musicians persevere with producing ne
 
 It was presented during the Share the Sound Concert which was streamed live on Facebook.  
 
-Also it was presented in the exhibition section at SIIDS - Sound, Image and Interaction Design Symposium, Funchal (Portugal) - 4th September, 2020  
-
 ## Image sonification in memoriam Ertuğrul Oğuz Fırat
 *Fixed media, 2020*
 
@@ -29,6 +27,8 @@ Also it was presented in the exhibition section at SIIDS - Sound, Image and Inte
 This piece was composed in memory of the Turkish composer, painter, and poet Ertuğrul Oğuz Fırat (1923-2014). One of the composer’s paintings, Politika, is used as a material for the image sonification. The RGB (red, green, blue) channel data of each pixel in Politika was read with Python programming language. In Csound, image data is mapped to several parameters to reveal the patterns in the painting in the rhythmic texture.
  
 It was presented during the homage concert on 10 February 2020  at ITU/MIAM Library.
+
+Also it was presented in the exhibition section at SIIDS - Sound, Image and Interaction Design Symposium, Funchal (Portugal) - 4th September, 2020  
 
 ## The octophonic site-specific piece for the MIAM Gallery 
 *multichannel, fixed media, 2019*
