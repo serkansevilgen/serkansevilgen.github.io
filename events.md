@@ -12,7 +12,7 @@ Istanbul Coding Ensemble (ICE), Jerfi Aji, and Scott Wilson performed "with live
 - **11th International Hisarli Ahmet Symposium**  
 Online - 6 June 2021  
 I presented my research paper "Data Sonification as an Electroacoustic Composition Method".  
-[Symposium website](https://hisas.org.tr/en/)  
+[Symposium website](https://hisarliahmet.org/)  
 
 - **International Online Dance Festival**  
 Online - 27 May 2021  
