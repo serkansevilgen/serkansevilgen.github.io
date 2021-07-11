@@ -2,38 +2,59 @@
 title: Recent Events
 ---
 
-<!-- - **Audio Programming with Csound Workshop** Date will be announced   -->
-<!-- Csound is one of the most widely used software sound synthesis systems. The purpose of the workshop is to introduce participants to the text-based -->
-<!-- audio programming, digital sound synthesis techniques, and computer-aided composition -->
-<!-- strategies.   -->
+- **Transformations of Musical Creativity in the 21st Century Conference**   
+Istanbul - 27 June 2021  
+I performed as a member of Istanbul Coding Ensemble in the music track of the conference.  
+Istanbul Coding Ensemble (ICE), Jerfi Aji, and Scott Wilson performed "with live coding based on machine listening data shared over network" version of "Symphony in Blue" by composer Kamran Ince.  
+[YouTube](https://youtu.be/L_mgsEHc3KY)  
+[Conference](https://www.miam.itu.edu.tr/en/2021/06/24/transformations-of-musical-creativity-in-the-21st-century-2/)  
 
-- **A Railway Station in Haydarpaşa** 2021  
-The 3rd installment of event series by The Istanbul Soundscape Project  
-[Facebook event page](https://www.facebook.com/events/514446875786912/)  
+- **11th International Hisarli Ahmet Symposium**  
+Online - 6 June 2021  
+I presented my research paper "Data Sonification as an Electroacoustic Composition Method".  
+[Symposium website](https://hisas.org.tr/en/)  
+
+- **International Online Dance Festival**  
+Online - 27 May 2021  
+Performed with Fulya Ucanok our inside piano + soundcape composition as a part of Klank.ist Ensemble Improvisation Series  
+[Music](https://soundcloud.com/serkansevilgen/inside-outside-with-fulya-ucanok)  
+[Festival Website](https://www.improvisationdancefestival.com/festival)  
+
+- **Bilgi Music Seminars**  
+Istanbul Bilgi University - 9 April 2021  
+I presented a seminar on "Stochastic Processes in Music".  
+[Facebook event](https://www.facebook.com/events/302692371426535)  
+
+- **MIAM Current Research in Music Colloquium**  
+Center for Advanced Studies in Music (MIAM) / ITU - 5 February 2021  
+I presented my research "Real-time computer music with human performers"  
+[Colloquium Webpage](https://www.miam.itu.edu.tr/en/2021/01/27/colloquium-2020-fall-2/)  
+
+- **Sonic Synchresis / Distributed Dialogues Concert**  
+Online - 4 February 2021  
+I presented my project “Live coding for real-world objects” that I’ve realized with Python, Arduino and Supercollider  
+[YouTube](https://www.youtube.com/watch?v=exWpN0wnp40)  
 
 - **SIIDS - Sound, Image and Interaction Design Symposium**   
 Funchal (Portugal) - 4th September, 2020  
 My piece “Image Sonification in memoriam Ertuğrul Oğuz Fırat” was presented on exhibition section during the symposium.  
-[SIIDS exhibition](https://siids.arditi.pt/exhibition/)
+[SIIDS exhibition](https://siids.arditi.pt/exhibition/)  
 
 - **Network Music Festival**  
 Birmingham (England, UK) - 16 July 2020  
 The project with Fulya Ucanok, "The Curtain & Beyond" was performed live  
 [Artists' page](https://networkmusicfestival.org/programme/performances/fulya-ucanok-and-serkan-sevilgen-the-curtain-and-beyond/)  
 [Festival website](https://networkmusicfestival.org/)  
-[Performance video on YouTube](https://www.youtube.com/watch?v=u9f-rb_YWTo)
+[Performance video on YouTube](https://www.youtube.com/watch?v=u9f-rb_YWTo)  
 
-- **MIAM Current Studies in Music Colloquium** 16 June 2020  
+- **MIAM Current Research in Music Colloquium**  
+Center for Advanced Studies in Music (MIAM) / ITU - 16 June 2020  
 Presented a research paper "A Tool for Network Music"  
 [Poster and abstract](https://www.instagram.com/p/CBfX81AgG5M/)  
 
 - **Share the Sound Concert** 11 June 2020   
 Presented my binaural, acousmatic piece "Transfigured Walls".   
 [Facebook Live Streaming](https://www.facebook.com/events/2877810805607090/permalink/2878794442175393/)  
-
-- **International Hisarli Ahmet Symposium** Postponed to April 2021  
-A research paper on interactive image sonification will be presented  
-[Symposium website](https://hisas.org.tr/en/)
 
 - **The Curtain & Beyond ~ Live Tele-acousmatic Improvisation Concert** 18 May 2020  
 Fulya Uçanok and Serkan Sevilgen are a duo who is fascinated by microscopic details of sound objects and exploring their intimate and fragile sound worlds through low-level listening.  
@@ -43,7 +64,8 @@ Fulya Uçanok and Serkan Sevilgen are a duo who is fascinated by microscopic det
 - **In Between Electroacoustic Music Festival** Thessaloniki, Greece 8-10 May 2020 (Postponed to an unknown date)  
 [Festival website](https://www.inbetweenfestival.com/)  
 
-- **Presentation in  "Space in  Art and Design" class at Mimar Sinan University** 6 May 2020  
+- **"Space in  Art and Design" class Seminar**   
+Mimar Sinan University - 6 May 2020  
 "Spatial Sound and Music" was presented to Prof. Lebriz Rona's master degree course students  
 [Related post](https://www.instagram.com/p/B_2jIeRgQIY/)  
 
