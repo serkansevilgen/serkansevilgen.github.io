@@ -6,7 +6,7 @@ title: Recent Events
 Online - 2 July 2021  
 I presented my mixed composition piece "N, for Violin and Electronics (2021)".  
 [Full Concert](https://youtu.be/Hnz0J1-XZ5c)  
-["N, for Violin and Electronics (2021)](https://youtu.be/aKCNPT1IOjk)  
+[N, for Violin and Electronics (2021)](https://youtu.be/aKCNPT1IOjk)  
 
 - **Transformations of Musical Creativity in the 21st Century Conference**   
 Istanbul - 27 June 2021  
@@ -22,7 +22,7 @@ I presented my research paper "Data Sonification as an Electroacoustic Compositi
 
 - **International Online Dance Festival**  
 Online - 27 May 2021  
-Performed with Fulya Ucanok our inside piano + soundcape composition as a part of Klank.ist Ensemble Improvisation Series  
+Performed with Fulya Ucanok our "inside piano + soundcape" composition as a part of Klank.ist Ensemble Improvisation Series  
 [Music](https://soundcloud.com/serkansevilgen/inside-outside-with-fulya-ucanok)  
 [Festival Website](https://www.improvisationdancefestival.com/festival)  
 
