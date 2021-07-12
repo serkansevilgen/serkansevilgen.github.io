@@ -2,6 +2,12 @@
 title: Recent Events
 ---
 
+- **Electroacoustic Afternoons Concert**   
+Online - 2 July 2021  
+I presented my mixed composition piece "N, for Violin and Electronics (2021)".  
+[Full Concert](https://youtu.be/Hnz0J1-XZ5c)  
+["N, for Violin and Electronics (2021)](https://youtu.be/aKCNPT1IOjk)  
+
 - **Transformations of Musical Creativity in the 21st Century Conference**   
 Istanbul - 27 June 2021  
 I performed as a member of Istanbul Coding Ensemble in the music track of the conference.  
@@ -52,16 +58,19 @@ Center for Advanced Studies in Music (MIAM) / ITU - 16 June 2020
 Presented a research paper "A Tool for Network Music"  
 [Poster and abstract](https://www.instagram.com/p/CBfX81AgG5M/)  
 
-- **Share the Sound Concert** 11 June 2020   
+- **Share the Sound Concert**  
+Online - 11 June 2020   
 Presented my binaural, acousmatic piece "Transfigured Walls".   
 [Facebook Live Streaming](https://www.facebook.com/events/2877810805607090/permalink/2878794442175393/)  
 
-- **The Curtain & Beyond ~ Live Tele-acousmatic Improvisation Concert** 18 May 2020  
+- **The Curtain & Beyond ~ Live Tele-acousmatic Improvisation Concert**  
+Online - 18 May 2020  
 Fulya Uçanok and Serkan Sevilgen are a duo who is fascinated by microscopic details of sound objects and exploring their intimate and fragile sound worlds through low-level listening.  
 [Facebook Live Streaming](https://www.facebook.com/watch/live/?v=2930165690430538&ref=watch_permalink)  
 [Audio recording](https://soundcloud.com/serkansevilgen/the-curtain-and-beyond-fulya-ucanok-serkan-sevilgen-may-18-2020-facebook-live-stream-concert)  
 
-- **In Between Electroacoustic Music Festival** Thessaloniki, Greece 8-10 May 2020 (Postponed to an unknown date)  
+- **In Between Electroacoustic Music Festival**  
+Thessaloniki, Greece 8-10 May 2020 (Postponed to an unknown date)  
 [Festival website](https://www.inbetweenfestival.com/)  
 
 - **"Space in  Art and Design" class Seminar**   
@@ -69,30 +78,36 @@ Mimar Sinan University - 6 May 2020
 "Spatial Sound and Music" was presented to Prof. Lebriz Rona's master degree course students  
 [Related post](https://www.instagram.com/p/B_2jIeRgQIY/)  
 
-- **In Memory of Ertugrul Oguz Firat Concert** 10 February 2020  
+- **In Memory of Ertugrul Oguz Firat Concert**   
+Center for Advanced Studies in Music / ITU - 10 February 2020  
 Electroacoustic miniature piece, "Image sonification In Memoriam Ertugrul Oguz Firat" was presented  
 [Event poster](https://www.instagram.com/p/B8ZGUBegJji/)  
 
-- **Sonic Tales from the Crypt Concert** 26 December 2019  
+- **Sonic Tales from the Crypt Concert** 
+MIAM Gallery (Center for Advanced Studies in Music, ITU) -  26 December 2019  
 Multichannel (octophonic), site-specific piece was presented  
 [Event poster](https://www.instagram.com/p/B6NnJy4ALmL/)  
 [Event website](http://www.etkinlik.itu.edu.tr/EtkinlikDetay.aspx?etkinlik=1691)  
 [Related post](https://www.instagram.com/p/B6nVfzbg7tm/) [Related post](https://www.instagram.com/p/B6nVMWyAVNt/)  
 
-- **Acousmatic Concert** 31 October 2019  
+- **Acousmatic Concert**  
+MIAM Studio (Center for Advanced Studies in Music / ITU) -  31 October 2019  
 The acousmatic piece, realized in MaxMSP, composed for this concert was presented at MIAM studio.  
 [Related post](https://www.instagram.com/p/B4VEsdQgMh3/)  
 
-- **Take the Aid Train** 20 October 2019  
+- **Take the Aid Train**  
+Bova Jazz Club, Istanbul - 20 October 2019  
 A musique concrete improvisation with Fulya Ucanok during the experimental music event at Bova Jazz Club, Istanbul  
 [Event poster](https://www.instagram.com/p/B4Czk7TA86U/)  
 [Video](https://www.instagram.com/p/B4Cv8kDgnCB/)  
 
-- **Soundwalk** 8 June 2019  
+- **Soundwalk**  
+Istanbul - 8 June 2019  
 Led a soundwalk with Fulya Ucanok in Soundinit event.  
 [Facebook event page](https://www.facebook.com/soundinit.istanbul/posts/395069201100077)  
 
-- **Istanbul Soundscape Project Event** 25 April 2019  
+- **Istanbul Soundscape Project Event**  
+Salt Beyoglu, Istanbul - 25 April 2019  
 A soundcape composition "Strng Wnd" was presented  
 [Event poster](https://www.instagram.com/p/BwrnYKcgpVr/)  
 [Video](https://www.facebook.com/watch/?v=391104311474341)  
