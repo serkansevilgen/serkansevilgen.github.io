@@ -35,7 +35,7 @@ Serkan Sevilgen ~ soundscape
 
 Live coding with Python, Arduino, Supercollider for old copper household objects I inherited from my grandparents
 
-## Beyond the Curtain with Fulya Ucanok 
+## The Curtain and Beyond with Fulya Ucanok 
 *Improvisation, 2020*  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u9f-rb_YWTo?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
