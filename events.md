@@ -31,6 +31,13 @@ Istanbul Bilgi University - 9 April 2021
 I presented a seminar on "Stochastic Processes in Music".  
 [Facebook event](https://www.facebook.com/events/302692371426535)  
 
+- **Exploring Resonance and Feedback Workshop Series**  
+Arter / ITU MIAM - 15 - 29 February 2021  
+Participant  
+*On the occasion of Rainforest V (variation 3) exhibition (David Tudor) in Arter, composers John Driscoll and Phil Edelstein of Composers Inside Electronics, Inc. presented a series of online presentations and workshops titled "Exploring Resonance and Feedback". Realised through a collaboration between Arter, İTÜ MIAM and Columbia University Computer Music Center, the online programme focused on the compositional use of resonance in materials and spaces. Led by Driscoll and Edelstein, the workshops encouraged participants to carry out their own explorations of acoustic and electronic feedback.*   
+[Video](https://www.youtube.com/watch?v=aSHS2WgyBpI)  
+[Exhibition](https://www.arter.org.tr/en/exhibitions/rainforestvariation3)  
+
 - **MIAM Current Research in Music Colloquium**  
 Center for Advanced Studies in Music (MIAM) / ITU - 5 February 2021  
 I presented my research "Real-time computer music with human performers"  

@@ -7,6 +7,33 @@ title: Music
 [soundcloud.com/serkansevilgen](https://soundcloud.com/serkansevilgen)  
 [Spotify](https://open.spotify.com/artist/5MIcETr17tCFDKZ2ZOBgT9), [Apple Music](https://music.apple.com/us/artist/serkan-sevilgen/1477675502), [Amazon](https://www.amazon.com/s?k=Serkan+Sevilgen&i=digital-music&search-type=ss&ref=ntt_srch_drd_B07X2F3X18)  
 
+## N, for Violin and Electronics
+*Mixed composition, 2021*  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aKCNPT1IOjk?controls=0" title="N, for Violin and Electronics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Symphony for Blue 2.0
+*Live Coding, 2021*  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L_mgsEHc3KY?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Istanbul Coding Ensemble (ICE), Jerfi Aji, and Scott Wilson perform "with live coding based on machine listening data shared over network" version of "Symphony in Blue" by composer Kamran Ince. 
+The recorded performance will be streamed in the music track of the Transformations of Musical Creativity in the 21st Century, an international conference organized by ITU MIAM (Center for Advanced Studies in Music at İstanbul Technical University), and the University of Bristol.
+
+## Inside Outside with Fulya Ucanok
+*Improvisation, Electroacoustic 2021*  
+
+<iframe width="560" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1085799712&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/serkansevilgen" title="Serkan Sevilgen" target="_blank" style="color: #cccccc; text-decoration: none;">Serkan Sevilgen</a> · <a href="https://soundcloud.com/serkansevilgen/inside-outside-with-fulya-ucanok" title="Inside Outside with Fulya Uçanok" target="_blank" style="color: #cccccc; text-decoration: none;">Inside Outside with Fulya Uçanok</a></div>
+
+Fulya Ucanok ~ inside piano  
+Serkan Sevilgen ~ soundscape
+
+## Live Coding for Acoustic Objects
+*Live Coding, 2021*  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2FMzYgew6co?controls=0" title="Live Coding for Acoustic Objects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Live coding with Python, Arduino, Supercollider for old copper household objects I inherited from my grandparents
 
 ## Transfigured Walls
 *Binaural, fixed media, 2020*  
