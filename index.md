@@ -5,6 +5,9 @@ title: About
 <p align="center">
   <img src="/images/Serkan-Sevilgen_MIAM-gallery_26-12-2019.png" style="width: 100%; max-width: 1040px; height: auto;" />
 </p>
+
+### Serkan Sevilgen
+
 Istanbul-based computer programmer and composer. 
 
 Member of [**Istanbul Coding Ensemble**](https://www.facebook.com/istanbulcodingensemble/)
