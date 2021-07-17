@@ -2,6 +2,11 @@
 title: Recent Events
 ---
 
+- **Darmstadt Composition Summer Course**   
+1 - 11 August 2021  
+Registered as a participant.
+[Website](https://internationales-musikinstitut.de/en/ferienkurse/kurse/komposition/)  
+
 - **Electroacoustic Afternoons Concert**   
 Online - 2 July 2021  
 I presented my mixed composition piece "N, for Violin and Electronics (2021)".  
