@@ -10,6 +10,7 @@ Registered as a participant.
 - **World Listening Day Event - Soundwalk**   
 Istanbul - 18 July 2021  
 Soundinit organizes a soundwalk as a part of global "World Listening Day" events  
+[Soundinit FAcebook event](https://www.facebook.com/events/802173933809500)  
 [World Listening Day 2021 Global Events](https://www.worldlisteningproject.org/world-listening-day-2021-global-events/)  
 
 - **Electroacoustic Afternoons Concert**   
@@ -33,6 +34,7 @@ I presented my research paper "Data Sonification as an Electroacoustic Compositi
 - **International Online Dance Festival**  
 Online - 27 May 2021  
 Performed with Fulya Ucanok our "inside piano + soundcape" composition as a part of Klank.ist Ensemble Improvisation Series  
+[Event Video](https://youtu.be/3zH30QuRSJQ?t=907)  
 [Music](https://soundcloud.com/serkansevilgen/inside-outside-with-fulya-ucanok)  
 [Festival Website](https://www.improvisationdancefestival.com/festival)  
 
