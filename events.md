@@ -102,7 +102,7 @@ Center for Advanced Studies in Music / ITU - 10 February 2020
 Electroacoustic miniature piece, "Image sonification In Memoriam Ertugrul Oguz Firat" was presented  
 [Event poster](https://www.instagram.com/p/B8ZGUBegJji/)  
 
-- **Sonic Tales from the Crypt Concert** 
+- **Sonic Tales from the Crypt Concert**   
 MIAM Gallery (Center for Advanced Studies in Music, ITU) -  26 December 2019  
 Multichannel (octophonic), site-specific piece was presented  
 [Event poster](https://www.instagram.com/p/B6NnJy4ALmL/)  
@@ -116,7 +116,7 @@ The acousmatic piece, realized in MaxMSP, composed for this concert was presente
 
 - **Take the Aid Train**  
 Bova Jazz Club, Istanbul - 20 October 2019  
-A musique concrete improvisation with Fulya Ucanok during the experimental music event at Bova Jazz Club, Istanbul  
+A musique concrete improvisation with Fulya Ucanok during the [Take the AID Train](https://artisdead.in/taketheaidtrain), an experimental music event at Bova Jazz Club, Istanbul  
 [Event poster](https://www.instagram.com/p/B4Czk7TA86U/)  
 [Video](https://www.instagram.com/p/B4Cv8kDgnCB/)  
 
