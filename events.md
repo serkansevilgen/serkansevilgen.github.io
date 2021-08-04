@@ -42,6 +42,7 @@ Performed with Fulya Ucanok our "inside piano + soundcape" composition as a part
 Istanbul Bilgi University - 9 April 2021  
 I presented a seminar on "Stochastic Processes in Music".  
 [Facebook event](https://www.facebook.com/events/302692371426535)  
+[Lecture video](https://www.youtube.com/watch?v=nwhWL2Aq2WA)  
 
 - **Exploring Resonance and Feedback Workshop Series**  
 Arter / ITU MIAM - 15 - 29 February 2021  
