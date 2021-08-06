@@ -3,7 +3,7 @@ title: About
 ---
 
 <p align="center">
-  <img src="/images/Serkan-Sevilgen_MIAM-gallery_26-12-2019.png" style="width: 100%; max-width: 1040px; height: auto;" />
+  <img src="/images/Serkan-Sevilgen_MIAM-gallery_26-12-2019-superpixels-3000.png" style="width: 100%; max-width: 1040px; height: auto;" />
 </p>
 
 ### Serkan Sevilgen

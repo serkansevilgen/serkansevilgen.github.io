@@ -4,7 +4,7 @@ title: Recent Events
 
 - **Darmstadt Composition Summer Course**   
 1 - 11 August 2021  
-Registered as a participant.  
+Registered as a participant to work with Brian Ferneyough, Mark Andre, Raphaël Cendo, and Sarah Nemtsov.
 [Website](https://internationales-musikinstitut.de/en/ferienkurse/kurse/komposition/)  
 
 - **World Listening Day Event - Soundwalk**   
@@ -12,6 +12,7 @@ Istanbul - 18 July 2021
 Soundinit organizes a soundwalk as a part of global "World Listening Day" events  
 [Soundinit Facebook event](https://www.facebook.com/events/802173933809500)  
 [World Listening Day 2021 Global Events](https://www.worldlisteningproject.org/world-listening-day-2021-global-events/)  
+[Binaural recording of the entire soundwalk](https://soundcloud.com/serkansevilgen/soundinit-world-listening-soundwalk-binaural-18-july-2021)  
 
 - **Electroacoustic Afternoons Concert**   
 Online - 2 July 2021  
