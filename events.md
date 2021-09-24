@@ -1,15 +1,31 @@
 ---
 title: Recent Events
 ---
+- **18th Brazilian Symposium on Computer Music**  
+October 24 - 27 2021
+Performing electroacoustic music live telematically with the bespoke platform WORC  
+
+- **18th Brazilian Symposium on Computer Music**  
+October 24 - 27 2021
+Istanbul Coding Ensemble (ICE), Jerfi Aji, and Scott Wilson performed "with live coding based on machine listening data shared over network" version of "Symphony in Blue" by composer Kamran Ince.  
+
+
+- **Acoustic, Electroacoustic and Soundscape Class by Barry Truax**  
+Online - September to November 2021
+Attending an online class offered by Barry Truax based on the "Handbook for Acoustic Ecology"  
+
+- **Soundinit Soundwalk**  
+Istanbul - 13 September 2021  
+Led and record a soundwalk with Fulya Ucanok at Soundinit event  
 
 - **Darmstadt Composition Summer Course**   
 1 - 11 August 2021  
-Registered as a participant to work with Brian Ferneyough, Mark Andre, Raphaël Cendo, and Sarah Nemtsov.
+Studied with Brian Ferneyough, Mark Andre, Raphaël Cendo, and Sarah Nemtsov.
 [Website](https://internationales-musikinstitut.de/en/ferienkurse/kurse/komposition/)  
 
 - **World Listening Day Event - Soundwalk**   
 Istanbul - 18 July 2021  
-Soundinit organizes a soundwalk as a part of global "World Listening Day" events  
+Led a soundwalk with Fulya Ucanok at Soundinit event as a part of global "World Listening Day" events  
 [Soundinit Facebook event](https://www.facebook.com/events/802173933809500)  
 [World Listening Day 2021 Global Events](https://www.worldlisteningproject.org/world-listening-day-2021-global-events/)  
 [Binaural recording of the entire soundwalk](https://soundcloud.com/serkansevilgen/soundinit-world-listening-soundwalk-binaural-18-july-2021)  
