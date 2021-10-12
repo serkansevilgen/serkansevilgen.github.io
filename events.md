@@ -1,14 +1,20 @@
 ---
 title: Recent Events
 ---
-- **18th Brazilian Symposium on Computer Music**  
-October 24 - 27 2021
-Performing electroacoustic music live telematically with the bespoke platform WORC  
-
-- **18th Brazilian Symposium on Computer Music**  
-October 24 - 27 2021
+- **22nd ISMIR (International Society for Music Information Retrieval) Conference**  
+November 8 - 12 2021  
 Istanbul Coding Ensemble (ICE), Jerfi Aji, and Scott Wilson performed "with live coding based on machine listening data shared over network" version of "Symphony in Blue" by composer Kamran Ince.  
+[Conference website](https://ismir2021.ismir.net/)  
 
+- **18th Brazilian Symposium on Computer Music**  
+October 24 - 27 2021  
+Performing electroacoustic music live telematically with the bespoke platform WORC  
+[Symposium website](https://compmus.org.br/2021/)  
+
+- **18th Brazilian Symposium on Computer Music**  
+October 24 - 27 2021  
+Istanbul Coding Ensemble (ICE), Jerfi Aji, and Scott Wilson performed "with live coding based on machine listening data shared over network" version of "Symphony in Blue" by composer Kamran Ince.  
+[Symposium website](https://compmus.org.br/2021/)  
 
 - **Acoustic, Electroacoustic and Soundscape Class by Barry Truax**  
 Online - September to November 2021
