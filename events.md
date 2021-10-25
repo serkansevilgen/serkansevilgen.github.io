@@ -1,6 +1,11 @@
 ---
 title: Recent Events
 ---
+- **Hybrid Live Coding Interfaces 2021: Beyond the Screen**  
+November 22 2021  
+Presenting "Remote OSC" for telematic live coding with example use within WORC  
+[Workshop website](https://hybrid-livecode.pubpub.org/workshop2021)  
+
 - **22nd ISMIR (International Society for Music Information Retrieval) Conference**  
 November 8 - 12 2021  
 Istanbul Coding Ensemble (ICE), Jerfi Aji, and Scott Wilson performed "with live coding based on machine listening data shared over network" version of "Symphony in Blue" by composer Kamran Ince.  
