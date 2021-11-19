@@ -2,14 +2,16 @@
 title: Recent Events
 ---
 - **Hybrid Live Coding Interfaces 2021: Beyond the Screen**  
-November 22 2021  
+November 23 2021  
 Presenting "Remote OSC" for telematic live coding with example use within WORC  
 [Workshop website](https://hybrid-livecode.pubpub.org/workshop2021)  
 
 - **Festival of Sound Art and Transmedia Ecos Urbanos**  
 November 16 - 26 2021 Mexico  
-My fixed-media 8-channels electroacoustic piece "Wanderer" will be presented.  
+My 8-channels, fixed media electroacoustic composition "Wanderer" was presented at Stanford University's CCRMA (Center for Computer Research in Music and Acoustics) as a part of "Ecos Urbanos Festival" on Wed Nov 17 5pm PST.  
 [Festival website](https://sites.google.com/tec.mx/festivalecosurbanos2021/edition-2021/)  
+[Stanford's CCRMA page](https://ccrma.stanford.edu/events/ecos-urbanos-festival)
+[Concert: Direct live stream from CCRMA](https://www.facebook.com/FestivalEcosUrbanos/videos/186387890353740)
 
 - **22nd ISMIR (International Society for Music Information Retrieval) Conference**  
 November 8 - 12 2021  
