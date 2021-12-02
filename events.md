@@ -3,7 +3,7 @@ title: Recent Events
 ---
 - **ICLC 2021 - International Conference on Live Coding 2021**  
 December 15-17 2021 ~ Valdivia, Chile.  
-Presenting "Remote OSC" for telematic live coding with example use within WORC  
+Presenting the paper "Live Coding in the Time of COVID", authored by Scott Wilson, Konstantinos Vasilakos, and Serkan Sevilgen.  
 [Conference website](https://iclc.toplap.org/2021/index.html)  
 
 
