@@ -1,16 +1,23 @@
 ---
 title: Recent Events
 ---
+- **ICLC 2021 - International Conference on Live Coding 2021**  
+December 15-17 2021 ~ Valdivia, Chile.  
+Presenting "Remote OSC" for telematic live coding with example use within WORC  
+[Conference website](https://iclc.toplap.org/2021/index.html)  
+
+
 - **Hybrid Live Coding Interfaces 2021: Beyond the Screen**  
 November 23 2021  
 Presenting "Remote OSC" for telematic live coding with example use within WORC  
 [Workshop website](https://hybrid-livecode.pubpub.org/workshop2021)  
+[Presentation video](https://www.youtube.com/watch?v=LDQ1PMqZowQ)
 
 - **Festival of Sound Art and Transmedia Ecos Urbanos**  
 November 16 - 26 2021 Mexico  
 My 8-channels, fixed media electroacoustic composition "Wanderer" was presented at Stanford University's CCRMA (Center for Computer Research in Music and Acoustics) as a part of "Ecos Urbanos Festival" on Wed Nov 17 5pm PST.  
 [Festival website](https://sites.google.com/tec.mx/festivalecosurbanos2021/edition-2021/)  
-[Stanford's CCRMA page](https://ccrma.stanford.edu/events/ecos-urbanos-festival)
+[Stanford's CCRMA page](https://ccrma.stanford.edu/events/ecos-urbanos-festival)  
 [Concert: Direct live stream from CCRMA](https://www.facebook.com/FestivalEcosUrbanos/videos/186387890353740)
 
 - **22nd ISMIR (International Society for Music Information Retrieval) Conference**  
@@ -30,15 +37,16 @@ Istanbul Coding Ensemble (ICE), Jerfi Aji, and Scott Wilson performed "with live
 
 - **Acoustic, Electroacoustic and Soundscape Class by Barry Truax**  
 Online - September to November 2021
-Attending an online class offered by Barry Truax based on the "Handbook for Acoustic Ecology"  
+Participant in the online course for the Tutorial for the Handbook for Acoustic Ecology, hosted by Emeritus Professor Barry Truax, Simon Fraser University, Autumn 2021.  
 
 - **Soundinit Soundwalk**  
 Istanbul - 13 September 2021  
 Led and record a soundwalk with Fulya Ucanok at Soundinit event  
+[Binaural recording](https://soundcloud.com/serkansevilgen/soundinit-soundwalk-4-2021-09-13)
 
 - **Darmstadt Composition Summer Course**   
 1 - 11 August 2021  
-Studied with Brian Ferneyough, Mark Andre, Raphaël Cendo, and Sarah Nemtsov.
+Studied with Brian Ferneyough, Mark Andre, Raphaël Cendo, and Sarah Nemtsov.  
 [Website](https://internationales-musikinstitut.de/en/ferienkurse/kurse/komposition/)  
 
 - **World Listening Day Event - Soundwalk**   
