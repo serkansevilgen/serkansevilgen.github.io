@@ -6,6 +6,10 @@ December 15-17 2021 ~ Valdivia, Chile.
 Presenting the paper "Live Coding in the Time of COVID", authored by Scott Wilson, Konstantinos Vasilakos, and Serkan Sevilgen.  
 [Conference website](https://iclc.toplap.org/2021/index.html)  
 
+- **ICLC 2021 - International Conference on Live Coding 2021**  
+December 15-17 2021 ~ Valdivia, Chile.  
+Istanbul Coding Ensemble (ICE), Jerfi Aji, and Scott Wilson performed "with live coding based on machine listening data shared over network" version of "Symphony in Blue" by composer Kamran Ince.  
+[Conference website](https://iclc.toplap.org/2021/index.html)  
 
 - **Hybrid Live Coding Interfaces 2021: Beyond the Screen**  
 November 23 2021  
