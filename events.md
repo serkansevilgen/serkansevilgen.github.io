@@ -6,6 +6,11 @@ Athens & Nafplio (Greece), 24-29 May 2022.
 Presenting my composition method that employs data sonification and inspired by Iannis Xenakis's music "Achorripsis"  
 [Conference website](https://xenakis2022.uoa.gr/)  
 
+- **Tehran International Electronic Music Festival**  
+Tehran (Iran), Date: TBA. 2022  
+Presenting my bianural, fixed-media, electroacoustic composition "Transfigured Walls"  
+[Festival website](https://tiemf.com/)  
+
 - **ICLC 2021 - International Conference on Live Coding 2021**  
 December 15-17 2021 ~ Valdivia, Chile.  
 Presenting the paper "Live Coding in the Time of COVID", authored by Scott Wilson, Konstantinos Vasilakos, and Serkan Sevilgen.  
