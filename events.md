@@ -8,7 +8,7 @@ Presenting my composition method that employs data sonification and inspired by 
 
 - **Tehran International Electronic Music Festival**  
 Tehran (Iran), Date: TBA. 2022  
-Presenting my bianural, fixed-media, electroacoustic composition "Transfigured Walls"  
+Presenting my binaural, fixed-media, electroacoustic composition "Transfigured Walls"  
 [Festival website](https://tiemf.com/)  
 
 - **ICLC 2021 - International Conference on Live Coding 2021**  
