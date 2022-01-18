@@ -21,7 +21,7 @@ Murmansk (Russia), 2 - 5 Feb 2022
 Participating in a three-day workshop for study of the soundscape of the polar territories.  
 [Workshop website](http://fieldrecordinglab.com/en)  
 
-- **HCKR - Hong Kong Community Radio**  
+- **HKCR - Hong Kong Community Radio**  
 Hong Kong, 11 Jan 2022  
 My binaural, fixed-media, electroacoustic composition "Transfigured Walls" was presented in show hosted by Dj Strawberry with a guest curator Kaan Işık  
 [Radio show website](https://hkcr.live/residents/dj-strawberry/)  
@@ -44,7 +44,7 @@ Presenting "Remote OSC" for telematic live coding with example use within WORC
 
 - **Festival of Sound Art and Transmedia Ecos Urbanos**  
 November 16 - 26 2021 Mexico  
-My 8-channels, fixed media electroacoustic composition "Wanderer" was presented at Stanford University's CCRMA (Center for Computer Research in Music and Acoustics) as a part of "Ecos Urbanos Festival" on Wed Nov 17 5pm PST.  
+My 8-channels, fixed media electroacoustic composition "Wanderer" was presented at **Stanford University's CCRMA** (Center for Computer Research in Music and Acoustics) as a part of "Ecos Urbanos Festival" on Wed Nov 17 5pm PST.  
 [Festival website](https://sites.google.com/tec.mx/festivalecosurbanos2021/edition-2021/)  
 [Stanford's CCRMA page](https://ccrma.stanford.edu/events/ecos-urbanos-festival)  
 [Concert: Direct live stream from CCRMA](https://www.facebook.com/FestivalEcosUrbanos/videos/186387890353740)
