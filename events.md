@@ -11,20 +11,10 @@ Athens & Nafplio (Greece), 24-29 May 2022.
 Presenting my composition method that employs data sonification and inspired by Iannis Xenakis's music "Achorripsis"  
 [Conference website](https://xenakis2022.uoa.gr/)  
 
-- **Inversia Festival**  
-Murmansk (Russia), 2 - 6 Feb 2022  
-The participants of the Field recording laboratory work on a joint project to present the final product in the format of a multi-channel audio installation at Inversia 2022  
-[Festival website](https://inversiafest.com/)  
-
-- **Field Recording Lab**  
-Murmansk (Russia), 2 - 5 Feb 2022  
-Participating in a three-day workshop for study of the soundscape of the polar territories.  
-[Workshop website](http://fieldrecordinglab.com/en)  
-
 - **HKCR - Hong Kong Community Radio**  
 Hong Kong, 11 Jan 2022  
 My binaural, fixed-media, electroacoustic composition "Transfigured Walls" was presented in show hosted by Dj Strawberry with a guest curator Kaan Işık  
-[Radio show website](https://hkcr.live/residents/dj-strawberry/)  
+[Radio show](https://hkcr.live/shows/ev-w-dj-strawberry-invites-blank-wall-season-11-01-2022)  
 
 - **ICLC 2021 - International Conference on Live Coding 2021**  
 December 15-17 2021 ~ Valdivia, Chile.  
