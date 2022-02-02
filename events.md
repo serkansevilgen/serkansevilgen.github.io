@@ -1,15 +1,15 @@
 ---
 title: Recent Events
 ---
-- **Tehran International Electronic Music Festival**  
-Tehran (Iran), Date: TBA. 2022  
-Presenting my binaural, fixed-media, electroacoustic composition "Transfigured Walls"  
-[Festival website](https://tiemf.com/)  
-
 - **Xenakis 22: Centenary International Symposium**  
 Athens & Nafplio (Greece), 24-29 May 2022.  
 Presenting my composition method that employs data sonification and inspired by Iannis Xenakis's music "Achorripsis"  
 [Conference website](https://xenakis2022.uoa.gr/)  
+
+- **Tehran International Electronic Music Festival**  
+Tehran (Iran), Date: 19-26 Feb 2022  
+Presenting my binaural, fixed-media, electroacoustic composition "Transfigured Walls"  
+[Festival website](https://tiemf.com/)  
 
 - **HKCR - Hong Kong Community Radio**  
 Hong Kong, 11 Jan 2022  
