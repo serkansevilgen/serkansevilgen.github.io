@@ -183,6 +183,11 @@ A musique concrete improvisation with Fulya Ucanok during the [Take the AID Trai
 [Event poster](https://www.instagram.com/p/B4Czk7TA86U/)  
 [Video](https://www.instagram.com/p/B4Cv8kDgnCB/)  
 
+- **Vector Synthesis Pure Data Workshop**
+Humboldt University of Berlin - 5-7 July 2019  
+Participated in The Vector Synthesis Workshop held by Derek Holzer.  
+[Workshop details](https://www.eventbrite.de/e/vector-synthesis-pure-data-workshop-berlin-tickets-62307411144)
+
 - **Soundwalk**  
 Istanbul - 8 June 2019  
 Led a soundwalk with Fulya Ucanok in Soundinit event.  
