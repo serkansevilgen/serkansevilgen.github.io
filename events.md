@@ -46,7 +46,7 @@ Istanbul Coding Ensemble (ICE), Jerfi Aji, and Scott Wilson performed "with live
 
 - **18th Brazilian Symposium on Computer Music**  
 October 24 - 27 2021  
-Performing electroacoustic music live telematically with the bespoke platform WORC  
+Performed electroacoustic music live telematically with the bespoke platform WORC  
 [Symposium website](https://compmus.org.br/2021/)  
 
 - **18th Brazilian Symposium on Computer Music**  
@@ -55,12 +55,12 @@ Istanbul Coding Ensemble (ICE), Jerfi Aji, and Scott Wilson performed "with live
 [Symposium website](https://compmus.org.br/2021/)  
 
 - **Acoustic, Electroacoustic and Soundscape Class by Barry Truax**  
-Online - September to November 2021
+Online - September to November 2021  
 Participant in the online course for the Tutorial for the Handbook for Acoustic Ecology, hosted by Emeritus Professor Barry Truax, Simon Fraser University, Autumn 2021.  
 
 - **Soundinit Soundwalk**  
 Istanbul - 13 September 2021  
-Led and record a soundwalk with Fulya Ucanok at Soundinit event  
+Led and recorded a soundwalk with Fulya Ucanok at Soundinit event  
 [Binaural recording](https://soundcloud.com/serkansevilgen/soundinit-soundwalk-4-2021-09-13)
 
 - **Darmstadt Composition Summer Course**   
@@ -183,7 +183,7 @@ A musique concrete improvisation with Fulya Ucanok during the [Take the AID Trai
 [Event poster](https://www.instagram.com/p/B4Czk7TA86U/)  
 [Video](https://www.instagram.com/p/B4Cv8kDgnCB/)  
 
-- **Vector Synthesis Pure Data Workshop**
+- **Vector Synthesis Pure Data Workshop**  
 Humboldt University of Berlin - 5-7 July 2019  
 Participated in The Vector Synthesis Workshop held by Derek Holzer.  
 [Workshop details](https://www.eventbrite.de/e/vector-synthesis-pure-data-workshop-berlin-tickets-62307411144)
