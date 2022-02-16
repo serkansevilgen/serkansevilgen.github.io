@@ -108,9 +108,21 @@ Proof-of-concept render of a sound installation work that is supposed to be run 
 
 I try to detect and record soundscapes that resemble my ideas of sound design and composition. Awareness of sonic environment and making decisions, what and how to record makes recording more like a compositional process. In this track I have removed the wind shield from Sennheiser MKH 416 shotgun microphone and exposed it to a very strong wind.
 
+## Published soundscapes 
+Two soundscape pieces published in the 2013 World Listening Day compilation by Sonic Field.  
+Sonic Field is a bilingual, interdisciplinary network around sonic arts, sound studies and aural culture.  
+[http://sonicfield.org](http://sonicfield.org)  
+
+WLD 2013  Machine  [https://sonicterrain.bandcamp.com/album/str005wld2013machine](https://sonicterrain.bandcamp.com/album/str005wld2013machine)  
+WLD 2013  Society  [https://sonicterrain.bandcamp.com/album/str004wld2013society](https://sonicterrain.bandcamp.com/album/str004wld2013society)   
+	
+## Video art contribution	
+Contributed to Conscription, Çaglar Kimyoncu’s multimedia installation by providing additional sound recordings. Conscription is funded by the Arts Council of England and produced by Filmpro ltd.  
+[https://caglark.com/projects/conscription/](https://caglark.com/projects/conscription/) 2013
 
 ## Various Field Recordings
 Mono, stereo and binaural field recordings over the years  
 
 <iframe width="450px" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/410693213&color=%232a1411&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false"></iframe>
 <https://soundcloud.com/serkansevilgen/sets/field-recordings>
+
