@@ -6,8 +6,14 @@ Athens & Nafplio (Greece), 24-29 May 2022.
 Presenting my composition method that employs data sonification and inspired by Iannis Xenakis's music "Achorripsis"  
 [Conference website](https://xenakis2022.uoa.gr/)  
 
+- **Earth Day Art Model Telematic Festival**  
+Online, 22 April 2022  
+The project  "Sounding Microcosmos: real-time, telematic, biodata sonification" in collaboration with Ipek Oskay is presented live on the International Earth Day.
+"Earth Day Art Model is a global telematic and media event held on International Earth Day. Earth Day Art Model is sponsored and presented by Deck 10 Media and the Tavel Arts Technology Research Center at Indiana University Purdue University Indianapolis (IUPUI)."  
+[Festival website](https://earthdayartmodel.org/)  
+
 - **Tehran International Electronic Music Festival**  
-Tehran (Iran), Date: 19-26 Feb 2022  
+Tehran (Iran), 19-26 Feb 2022  
 Presenting my binaural, fixed-media, electroacoustic composition "Transfigured Walls"  
 [Festival website](https://tiemf.com/)  
 
