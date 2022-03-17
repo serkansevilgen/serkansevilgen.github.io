@@ -1,6 +1,11 @@
 ---
 title: Recent Events
 ---
+- **The International Computer Music Conference 2022**  
+Limerick (Ireland), 3 - 9 July 2022.  
+Presenting my piece "Coding Coppers"
+[Conference website](https://xenakis2022.uoa.gr/)  
+
 - **Xenakis 22: Centenary International Symposium**  
 Athens & Nafplio (Greece), 24-29 May 2022.  
 Presenting my composition method that employs data sonification and inspired by Iannis Xenakis's music "Achorripsis"  
