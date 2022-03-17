@@ -1,10 +1,10 @@
 ---
 title: Recent Events
 ---
-- **The International Computer Music Conference 2022**  
+- **The International Computer Music Conference - ICMC 2022**  
 Limerick (Ireland), 3 - 9 July 2022.  
-Presenting my piece "Coding Coppers"
-[Conference website](https://xenakis2022.uoa.gr/)  
+Presenting my piece "Coding Coppers"  
+[Conference website](https://icmc2022.org/)  
 
 - **Xenakis 22: Centenary International Symposium**  
 Athens & Nafplio (Greece), 24-29 May 2022.  
