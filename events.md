@@ -9,7 +9,7 @@ Presenting my piece "Coding Coppers"
 - **Xenakis 22: Centenary International Symposium**  
 Athens & Nafplio (Greece), 24-29 May 2022.  
 Presenting my composition method that employs data sonification and inspired by Iannis Xenakis's music "Achorripsis"  
-[Conference website](https://xenakis2022.uoa.gr/)  
+[Symposium website](https://xenakis2022.uoa.gr/)  
 
 - **Earth Day Art Model Telematic Festival**  
 Online, 22 April 2022  
