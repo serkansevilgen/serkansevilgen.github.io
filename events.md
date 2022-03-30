@@ -11,6 +11,11 @@ Auckland (New Zealand) 28 June - 1 July 2022.
 The installation project with İpek Oskay, "Sounding Microcosmos" is presented  
 [Conference website](https://nime2022.org/)  
 
+- **The Sound and Computing Festival - SMC 2022**  
+Saint-Ettiene (France) 7 - 11 June 2022.  
+The project  "Sounding Microcosmos: real-time, telematic, biodata sonification" in collaboration with Ipek Oskay is presented live.  
+[Conference website](https://nime2022.org/)  
+
 - **Xenakis 22: Centenary International Symposium**  
 Athens & Nafplio (Greece), 24-29 May 2022.  
 Presenting my composition method that employs data sonification and inspired by Iannis Xenakis's music "Achorripsis"  
