@@ -1,20 +1,20 @@
 ---
 title: Recent Events
 ---
-- **The International Computer Music Conference - ICMC 2022**  
+- **ICMC 2022 - The International Computer Music Conference**  
 Limerick (Ireland), 3 - 9 July 2022.  
 Presenting my piece "Coding Coppers"  
 [Conference website](https://icmc2022.org/)  
 
-- **The  International Conference on New Interfaces for Musical Expression - NIME 2022**  
+- **NIME 2022 - The  International Conference on New Interfaces for Musical Expression**  
 Auckland (New Zealand) 28 June - 1 July 2022.  
 The installation project with İpek Oskay, "Sounding Microcosmos" is presented  
 [Conference website](https://nime2022.org/)  
 
-- **The Sound and Computing Festival - SMC 2022**  
+- **SMC 2022 - The Sound and Computing Festival**  
 Saint-Etienne (France) 7 - 11 June 2022.  
 The project  "Sounding Microcosmos: real-time, telematic, biodata sonification" in collaboration with Ipek Oskay is presented live.  
-[Conference website](https://nime2022.org/)  
+[Festival website](https://smc22.grame.fr/festival.html)  
 
 - **Xenakis 22: Centenary International Symposium**  
 Athens & Nafplio (Greece), 24-29 May 2022.  
@@ -27,7 +27,7 @@ The project  "Sounding Microcosmos: real-time, telematic, biodata sonification" 
 "Earth Day Art Model is a global telematic and media event held on International Earth Day. Earth Day Art Model is sponsored and presented by Deck 10 Media and the Tavel Arts Technology Research Center at Indiana University Purdue University Indianapolis (IUPUI)."  
 [Festival website](https://earthdayartmodel.org/)  
 
-- **Tehran International Electronic Music Festival**  
+- **TIEMF 2022 - Tehran International Electronic Music Festival**  
 Tehran (Iran), 19-26 Feb 2022  
 Presenting my binaural, fixed-media, electroacoustic composition "Transfigured Walls"  
 [Festival website](https://tiemf.com/)  
@@ -60,17 +60,17 @@ My 8-channels, fixed media electroacoustic composition "Wanderer" was presented 
 [Stanford's CCRMA page](https://ccrma.stanford.edu/events/ecos-urbanos-festival)  
 [Concert: Direct live stream from CCRMA](https://www.facebook.com/FestivalEcosUrbanos/videos/186387890353740)
 
-- **22nd ISMIR (International Society for Music Information Retrieval) Conference**  
+- **ISMIR (International Society for Music Information Retrieval) Conference**  
 November 8 - 12 2021  
 Istanbul Coding Ensemble (ICE), Jerfi Aji, and Scott Wilson performed "with live coding based on machine listening data shared over network" version of "Symphony in Blue" by composer Kamran Ince.  
 [Conference website](https://ismir2021.ismir.net/)  
 
-- **18th Brazilian Symposium on Computer Music**  
+- **SBCM 2021 - 18th Brazilian Symposium on Computer Music**  
 October 24 - 27 2021  
 Performed electroacoustic music live telematically with the bespoke platform WORC  
 [Symposium website](https://compmus.org.br/2021/)  
 
-- **18th Brazilian Symposium on Computer Music**  
+- **SBCM 2021 - 18th Brazilian Symposium on Computer Music**  
 October 24 - 27 2021  
 Istanbul Coding Ensemble (ICE), Jerfi Aji, and Scott Wilson performed "with live coding based on machine listening data shared over network" version of "Symphony in Blue" by composer Kamran Ince.  
 [Symposium website](https://compmus.org.br/2021/)  
