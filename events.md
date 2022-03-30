@@ -12,7 +12,7 @@ The installation project with İpek Oskay, "Sounding Microcosmos" is presented
 [Conference website](https://nime2022.org/)  
 
 - **The Sound and Computing Festival - SMC 2022**  
-Saint-Ettiene (France) 7 - 11 June 2022.  
+Saint-Etienne (France) 7 - 11 June 2022.  
 The project  "Sounding Microcosmos: real-time, telematic, biodata sonification" in collaboration with Ipek Oskay is presented live.  
 [Conference website](https://nime2022.org/)  
 
