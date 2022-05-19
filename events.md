@@ -25,6 +25,7 @@ Presenting my composition method that employs data sonification and inspired by 
 Istanbul (Turkey), 17-18 May 2022.  
 Istanbul Coding Ensemble (ICE), Jerfi Aji "with live coding based on machine listening data shared over network" version of "Symphony in Blue" by composer Kamran Ince.  
 [Symposium website](https://eelisa.itu.edu.tr/)  
+[Concert video](https://www.youtube.com/watch?v=WN5rQFDp3_A)  
 
 - **Earth Day Art Model Telematic Festival**  
 Online, 22 April 2022  
