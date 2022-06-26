@@ -10,6 +10,7 @@ Presenting my piece "Coding Coppers"
 Auckland (New Zealand) 28 June - 1 July 2022.  
 The installation project with İpek Oskay, "Sounding Microcosmos" is presented  
 [Conference website](https://nime2022.org/)  
+[Our installation page](https://nime-2022.super.site/installations/sounding-microcosmos)  
 
 - **Taking Place and Making Place - Celebrating 25 Years of Journal of Space and Culture Conference**  
 Catholic University of Eichstätt – Ingolstadt (Germany) 23 - 25 June 2022.  
