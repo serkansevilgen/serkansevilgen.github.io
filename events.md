@@ -11,6 +11,11 @@ Auckland (New Zealand) 28 June - 1 July 2022.
 The installation project with İpek Oskay, "Sounding Microcosmos" is presented  
 [Conference website](https://nime2022.org/)  
 
+- **Taking Place and Making Place - Celebrating 25 Years of Journal of Space and Culture Conference**  
+Catholic University of Eichstätt – Ingolstadt (Germany) 23 - 25 June 2022.  
+The project  "Sounding Microcosmos: real-time, telematic, biodata sonification" in collaboration with Ipek Oskay is presented live.  
+[Our project on conference website](https://taking-making.place/exhibitions-activities/)  
+
 - **SMC 2022 - The Sound and Computing Festival**  
 Saint-Etienne (France) 7 - 11 June 2022.  
 The project  "Sounding Microcosmos: real-time, telematic, biodata sonification" in collaboration with Ipek Oskay is presented live.  
