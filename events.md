@@ -17,7 +17,7 @@ Catholic University of Eichstätt – Ingolstadt (Germany) 23 - 25 June 2022.
 The project  "Sounding Microcosmos: real-time, telematic, biodata sonification" in collaboration with Ipek Oskay is presented live.  
 [Our project on conference website](https://taking-making.place/exhibitions-activities/)  
 
-- **SMC 2022 - The Sound and Computing Festival**  
+- **SMC 2022 - The Sound and Music Computing Conference**  
 Saint-Etienne (France) 7 - 11 June 2022.  
 The project  "Sounding Microcosmos: real-time, telematic, biodata sonification" in collaboration with Ipek Oskay is presented live.  
 [Festival website](https://smc22.grame.fr/festival.html)  
