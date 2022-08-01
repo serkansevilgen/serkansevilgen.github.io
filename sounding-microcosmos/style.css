@@ -1,0 +1,74 @@
+html,
+body {
+  font-family: Arial;
+  color: #fff;
+  background-color: #1d3557;
+  background-image: url("images/bg2.jpg");
+  height: 100vh;
+  /* Background image is centered vertically and horizontally at all times */
+  background-position: center center;
+
+  /* Background image doesn't tile */
+  background-repeat: no-repeat;
+
+  /* Background image is fixed in the viewport so that it doesn't move when
+       the content's height is greater than the image's height */
+  background-attachment: fixed;
+
+  /* This is what makes the background image rescale based
+       on the container's size */
+  background-size: cover;
+
+  /* Set a background color that will be displayed
+       while the background image is loading */
+  background-color: #464646;
+}
+
+.console {
+  font-family: Monospace;
+  color: #ffffff;
+  background-color: rgba(0, 0, 0, 0);
+  font-size: 18px;
+  height: 400px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-style: none;
+  padding: 20px 20px;
+  opacity: 1;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+.txt {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #ffffff;
+  padding: 5px;
+}
+
+#pause {
+  margin: auto;
+  font-family: Monospace;
+  width: 805px;
+  padding: 10px 0px;
+  font-size: 24px;
+  background-color: #ffffff;
+}
+
+.button {
+  background-color: #e63946; /* Green */
+  border: none;
+  color: white;
+  font-size: 13px;
+  padding: 15px 32px;
+  margin-top: 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+a {
+  color: #ffffff;
+}
