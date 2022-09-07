@@ -1,6 +1,12 @@
 ---
 title: Recent Events
 ---
+- **Soundwalking among routes: Public event for the 17th Istanbul Biennial**  
+Istanbul, 18 September 2022  
+A collaborative workshop includes a soundwalk by Soundinit and "A Dictionary of Sensitive Sounds"  
+[Website (English)](https://bienal.iksv.org/en/17-public-learning-programmes/soundwalking-among-routes-soundinit-hassas-sesler-sozlugu)  
+[Website (Turkish)](https://bienal.iksv.org/tr/17-kamusal-program-ogrenme-programlari/rotalar-arasi-ses-yuruyusu-soundinit-hassas-sesler-sozlugu)
+
 - **ICMC 2022 - The International Computer Music Conference**  
 Limerick (Ireland), 3 - 9 July 2022.  
 Presenting my piece "Coding Coppers"  
