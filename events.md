@@ -1,8 +1,13 @@
 ---
 title: Recent Events
 ---
+- **Digitizmir Digital Music Festival**  
+Izmir (Turkey), 6 - 7 October 2022.  
+Performing live on-stage on the first day of the festival   
+[Poster](https://www.facebook.com/photo/?fbid=10159610291411849&set=a.10150612473826849)  
+
 - **Soundwalking among routes: Public event for the 17th Istanbul Biennial**  
-Istanbul, 18 September 2022  
+Istanbul (Turkey), 18 September 2022  
 A collaborative workshop includes a soundwalk by Soundinit and "A Dictionary of Sensitive Sounds"  
 [Website (English)](https://bienal.iksv.org/en/17-public-learning-programmes/soundwalking-among-routes-soundinit-hassas-sesler-sozlugu)  
 [Website (Turkish)](https://bienal.iksv.org/tr/17-kamusal-program-ogrenme-programlari/rotalar-arasi-ses-yuruyusu-soundinit-hassas-sesler-sozlugu)
