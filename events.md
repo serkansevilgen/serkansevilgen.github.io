@@ -1,7 +1,7 @@
 ---
 title: Recent Events
 ---
-- **Digitizmir Digital Music Festival**  
+- **digitIZMir -  Digital Music Festival**  
 Izmir (Turkey), 6 - 7 October 2022.  
 Performing live on-stage on the first day of the festival   
 [Poster](https://www.facebook.com/photo/?fbid=10159610291411849&set=a.10150612473826849)  
