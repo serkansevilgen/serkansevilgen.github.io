@@ -5,6 +5,8 @@ title: Recent Events
 Izmir (Turkey), 6 - 7 October 2022.  
 Performing live on-stage on the first day of the festival   
 [Poster](https://www.facebook.com/photo/?fbid=10159610291411849&set=a.10150612473826849)  
+[Event page (TR)](https://www.ifturquie.org/etkinlik/digitizmir_8/)  
+[Event page (FR)](https://www.ifturquie.org/fr/etkinlik/digitizmir_8/)
 
 - **Soundwalking among routes: Public event for the 17th Istanbul Biennial**  
 Istanbul (Turkey), 18 September 2022  
