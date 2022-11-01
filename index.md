@@ -8,19 +8,7 @@ title: About
 
 ### Serkan Sevilgen
 
-Istanbul-based computer programmer and composer. 
-
-Member of [**Istanbul Coding Ensemble**](https://www.facebook.com/istanbulcodingensemble/)
-
-Duo with composer/pianist [**Fulya Ucanok**](https://www.fulyaucanok.com/)
-
-Co-founder of [**Soundinit**](http://soundinit.org/), a sound-focused initiative for artist collaborations.
-
-MA in Sonic Arts at [**Center for Advanced Studies in Music**](https://www.miam.itu.edu.tr/en/) (MIAM), Istanbul Technical University.
-
-Director of Engineering at [**Temblor, Inc**](https://temblor.net/)
-
-**Interests** Computer music, algorithmic composition, sonification, live coding, network music, improvisation, instrumental composition, field recording, soundscape-based compositions.
+Serkan Sevilgen holds a BA in Music Technology and MA in Sonic Arts. He attended composition courses by leading contemporary composers. He uses several programming languages for sound synthesis and composition. His musical works and research focus on stochastic procedures, sonification, networked music systems, live coding, and soundscape. His music (including collaborations) is being performed at international festivals, radio shows, symposiums, and conferences, including Network Music Festival, ISMIR Conference, NIME, SMC, ICMC, Festival Ecos Urbanos (co-hosted by Stanford University’s CCRMA), and International Conference on Live Coding. He co-started [Soundinit](http://soundinit.org/) with the aim of creating collective sound works and raising awareness for the sonic environment through soundwalks and concerts. He is a member of the Istanbul Coding Ensemble (ICE), which has a focus on improvisation with musical algorithms using 'just-in-time' programming techniques and real-time communication with ad-hoc network music systems.
 
 [**RECENT EVENTS**](/events.html)  
 
@@ -31,9 +19,9 @@ Director of Engineering at [**Temblor, Inc**](https://temblor.net/)
 More ...  
 
 [SOUNDCLOUD](https://soundcloud.com/serkansevilgen)  
-[LINKEDIN](https://www.linkedin.com/in/serkansevilgen) 
-[INSTAGRAM](https://www.instagram.com/serkansevilgen/) 
-[FACEBOOK](https://www.facebook.com/aserkansevilgen) 
+[LINKEDIN](https://www.linkedin.com/in/serkansevilgen)   
+[INSTAGRAM](https://www.instagram.com/serkansevilgen/)   
+[FACEBOOK](https://www.facebook.com/aserkansevilgen)   
 [VIMEO](https://vimeo.com/104819975)
 
 
