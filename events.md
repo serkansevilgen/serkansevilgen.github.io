@@ -1,9 +1,29 @@
 ---
 title: Recent Events
 ---
+- **Sonified Symposium**  
+Istanbul (Turkey), 29-30 December 2022  
+
+Performed "Gendy Cloud" live with seven performers from five cities
+[Program](https://www.miam.itu.edu.tr/wp-content/uploads/2022/12/Sonified-Symposium-Program.pdf)
+
+- **Sonified Symposium**  
+Istanbul (Turkey), 29-30 December 2022  
+Presented "Symphony in Blue 2.0" with a preceeding talk on behalf of Istanbul Coding Ensemble. 
+
+Istanbul Coding Ensemble (ICE), Jerfi Aji, and Scott Wilson performed "with live coding based on machine listening data shared over network" version of "Symphony in Blue" by composer Kamran Ince.  
+[Program](https://www.miam.itu.edu.tr/wp-content/uploads/2022/12/Sonified-Symposium-Program.pdf)
+
+- **XNPM22: Xenakis Networked Performance Marathon**   
+Athens (Greece), 17 December 2022  
+
+Performed my networked music project "Gendy Cloud" with on-site and remote performers located in three countries.
+
+[Event page](https://ionio.gr/en/news/26444/)
+
 - **digitIZMir Digital Music Festival**  
 Izmir (Turkey), 6 - 7 October 2022.  
-Performing live on-stage on the first day of the festival   
+Performed live for 8 channels diffusion for 45 minutes.   
 [Poster](https://www.facebook.com/photo/?fbid=10159610291411849&set=a.10150612473826849)  
 [Event page (TR)](https://www.ifturquie.org/etkinlik/digitizmir_8/)  
 [Event page (FR)](https://www.ifturquie.org/fr/etkinlik/digitizmir_8/)  
