@@ -80,7 +80,7 @@ A real-time, telematic, biodata sonification project with Ipek Oskay. It was per
 See details and performance videos [here](https://serkansevilgen.com/sounding-microcosmos/)  
 
 
-# Symphony for Blue 2.0 (w. Istanbul Coding Ensemble)
+# Symphony in Blue 2.0 (w. Istanbul Coding Ensemble)
 
 *2021 - Live Coding, Networked music, SuperCollider*  
 
@@ -144,7 +144,7 @@ Presented at [**ICMC 2022**](https://icmc2022.files.wordpress.com/2022/07/icmc20
 
 In this performance, the duo delves into the discourses around the Pythagorean curtain that has been an inspiration for the acousmatic tradition. Taking it literally, the performance integrates an actual curtain in physical space performance conditions, However, they use other virtual tools to create the curtain for network performances. The curtain aims to weave together historical and current discourses around acousmatic music practice. Integrating the acousmatic into a live performance setting, they create dialogues between parallel worlds of source-bonded/source-ambiguous sound events, various forms of presences/absences, the real/unreal, and linearity/non-linearity in the narrative.  
 
-Performed live at the \*[Network Music Festival\*](https://networkmusicfestival.org/programme/performances/fulya-ucanok-and-serkan-sevilgen-the-curtain-and-beyond/), 2020  
+Performed live at the [Network Music Festival](https://networkmusicfestival.org/programme/performances/fulya-ucanok-and-serkan-sevilgen-the-curtain-and-beyond/), 2020  
 
 
 # Transfigured Walls
