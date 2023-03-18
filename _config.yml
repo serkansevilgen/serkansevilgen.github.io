@@ -2,3 +2,13 @@ theme: minima
 title: Serkan Sevilgen
 description: Serkan Sevilgen computer programmer and composer
 google_analytics: UA-157033-24
+navigation:
+- text: About
+  internal: true
+  url: ./
+- text: Music
+  internal: true
+  url: music
+- text: Recent Events
+  internal: true
+  url: events
