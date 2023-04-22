@@ -1,6 +1,11 @@
 ---
 title: Recent Events
 ---
+- **NYCEMF - The New York City Electroacoustic Music Festival**  
+New York (USA), 19 - 25 June 2023  
+8-channels fixed media compoaition "Mar8" is presented. 
+[nycemf.org](https://nycemf.org/)
+
 - **Sonified Symposium**  
 Istanbul (Turkey), 29-30 December 2022  
 Performed "Gendy Cloud" live with seven performers from five cities.  
