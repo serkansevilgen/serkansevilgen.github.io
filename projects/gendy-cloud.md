@@ -1,7 +1,3 @@
----
-title: Gendy Cloud
----
-
 # Gendy Cloud
 
 *2022 - Networked music, multichannel, web interface, Csound*  
@@ -16,7 +12,7 @@ The Gendy Cloud has three components:
 -   An interface that can produce OSC messages. Performers that can join from any physical location. They would use either the existing web interface or their interfaces.
 -   Remote OSC, a library that works as a server/client architecture and manages the data traffic between the performers and the host computer. Thanks to Remote OSC, there is no need to configure a router, IP, etc. to communicate over the Internet.  
     
-    ![img](images/GendyCloud-WORC-ensemble.png)
+    ![img](../images/GendyCloud-WORC-ensemble.png)
 
 Gendy Cloud is the first piece that the *WORC*, a networked music ensemble has performed. The main proposition is instead of streaming audio between the peers and then to the audience, to build instruments that can be performed remotely only by sending OSC messages over the Internet. Since the amount of data is very small in terms of bytes even without a broadband Internet connection the performance will be possible without compromising audio quality. The goal of the performance is to create a dynamic "cloud" of stochastic noises.  
 
