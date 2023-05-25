@@ -3,8 +3,13 @@ title: Recent Events
 ---
 - **NYCEMF - The New York City Electroacoustic Music Festival**  
 New York (USA), 19 - 25 June 2023  
-8-channels fixed media compoaition "Mar8" is presented. 
+8-channels fixed media compoaition "Mar8" is presented.  
 [nycemf.org](https://nycemf.org/)
+
+- **Istanbul Soundscape Project Concert**  
+Istanbul (Turkey), 21 May 2023  
+Presented a fixed-media, soundscape piece.
+[Event Post](https://www.instagram.com/p/CsgefTuoUkA/)
 
 - **Sonified Symposium**  
 Istanbul (Turkey), 29-30 December 2022  
