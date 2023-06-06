@@ -8,7 +8,7 @@ title: About
 
 ### Serkan Sevilgen
 
-Serkan Sevilgen is an electroacoustic music composer who employs his professional programming skills to create computer music. Sevilgen has an MA in Sonic Arts from the Center for Advanced Studies in Music (MIAM) at the Istanbul Technical University. He is a co-founder of Soundinit, an initiative that focuses on sound, and a founder of WORC, a networked music ensemble. He is a member of the Istanbul Coding Ensemble, an organization that values collaborative work. His musical works and research focus on computer music, sonification, networked music systems, web audio, live coding, stochastic procedures, and soundscape. Sevilgen has presented his works at various international events such as ICMC, NIME, SMC, ISMIR, Xenakis Networked Performance Marathon, and the New York City Electroacoustic Music Festival.
+Serkan Sevilgen is an electroacoustic music composer who employs his professional programming skills to create computer music. He works as the Director of Engineering of the catastrophe modeling company, Temblor, Inc.  Sevilgen has an MA in Sonic Arts from the Center for Advanced Studies in Music (MIAM) at the Istanbul Technical University. He is a co-founder of Soundinit, an initiative focusing on sound, and a founder of WORC, a networked music ensemble. He is a member of the Istanbul Coding Ensemble. His musical works and research focus on computer music, sonification, networked music systems, web audio, live coding, stochastic procedures, and soundscape. Sevilgen has presented his works at various international events such as ICMC, NIME, SMC, ISMIR, Xenakis Networked Performance Marathon, and the New York City Electroacoustic Music Festival.
 
 [**RECENT EVENTS**](/events.html)  
 
