@@ -2,6 +2,14 @@
 title: Music
 ---
 
+# Nophesis
+
+*2023 - Fixed media, algorithmic composition, soundscape*
+
+<https://soundcloud.com/serkansevilgen/soundscape-w-urban-birds-and-noise>
+
+The sound materials for the piece are the recorded sounds in Istanbul. Two sets of recordings, birds and human-made noises, hint different nature of sounds we hear in the city. The audio samples are matched randomly to create pairs. Spectral analysis and resynhesis tools in Csound are used to generate cross-synthesized sounds where the amplitude and frequency values from each audio are mashed together. 
+
 # Gendy Cloud
 
 *2022 - Networked music, multichannel, web interface, Csound*  
