@@ -1,6 +1,22 @@
 ---
 title: Recent Events
 ---
+
+- **ICMC 2023 - The International Computer Music Conference**  
+Shenzhen (China), 15 - 20 October 2023.  
+Reviewer for the paper track. 
+[Conference website](https://icmc2023.org.cn/)  
+
+- **Australasian Computer Music Conference 2023**  
+Sydney (Australia), 9 - 11 October 2023  
+Fixed-media piece *Nophesis* is presented.  
+[Conference website](https://www.une.edu.au/about-une/faculty-of-humanities-arts-social-sciences-and-education/hass/news-and-events/australasian-computer-music-conference-2023)  
+
+- **The Institute for Art in Context, UdK Exhitibition**  
+Berlin (Germany), 21 - 23 July.  
+The works created for "Istanbul Soundspace Project" are presented at CCA Berlin.  
+[Details](https://www.instagram.com/p/CvDhv3BIURS/)
+
 - **NYCEMF - The New York City Electroacoustic Music Festival**  
 New York (USA), 19 - 25 June 2023  
 8-channels fixed media composition "Mar8" is presented.  

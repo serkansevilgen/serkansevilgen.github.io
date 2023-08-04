@@ -8,7 +8,7 @@ title: Music
 
 <https://soundcloud.com/serkansevilgen/soundscape-w-urban-birds-and-noise>
 
-The sound materials for the piece are the recorded sounds in Istanbul. Two sets of recordings, birds and human-made noises, hint different nature of sounds we hear in the city. The audio samples are matched randomly to create pairs. Spectral analysis and resynhesis tools in Csound are used to generate cross-synthesized sounds where the amplitude and frequency values from each audio are mashed together. 
+The sound materials for the piece are the recorded sounds in Istanbul. Two sets of recordings, birds and human-made noises, hint different nature of sounds we hear in the city. The audio samples are matched randomly to create pairs. Spectral analysis and resynthesis tools in Csound are used to generate cross-synthesized sounds where the amplitude and frequency values from each audio are mashed together. 
 
 # Gendy Cloud
 
