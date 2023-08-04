@@ -7,6 +7,10 @@ Shenzhen (China), 15 - 20 October 2023.
 Reviewer for the paper track. 
 [Conference website](https://icmc2023.org.cn/)  
 
+- **Atmospheres Workshop**  
+Istanbul (Turkey), 12 - 13 October 2023.  
+Presenting a sound work. Details to be announced  
+
 - **Australasian Computer Music Conference 2023**  
 Sydney (Australia), 9 - 11 October 2023  
 Fixed-media piece *Nophesis* is presented.  
