@@ -4,11 +4,12 @@ title: Recent Events
 
 - **ICMC 2023 - The International Computer Music Conference**  
 Shenzhen (China), 15 - 20 October 2023.  
-Reviewer for the paper track. 
+Selected to be a reviewer for the paper track.  
 [Conference website](https://icmc2023.org.cn/)  
 
 - **Atmospheres Workshop**  
 Istanbul (Turkey), 12 - 13 October 2023.  
+The workshop titled "Atmospheres - Multisensorial research in Istanbul. Artistic and academic research in Dialogue", organized in collaboration with Orient Institute Is- tanbul, Concordia University (Tiohtià:ke Montreal), and Istanbul Technical University Center for Advanced Studies in Music (MIAM)  
 Presenting a sound work. Details to be announced  
 
 - **Australasian Computer Music Conference 2023**  
