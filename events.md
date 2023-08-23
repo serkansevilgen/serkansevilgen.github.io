@@ -19,7 +19,7 @@ Fixed-media piece *Nophesis* is presented.
 
 - **Exhibition: HÜSEYİN BAHRİ ALPTEKİN 'DOSTLAR ARASINDA: UZUN BİR HİKAYEDEN BİR BÖLÜM'**  
 Galerist, Istanbul (Turkey), 11 September 2023  
-Collaborating with Emre Koyuncuoglu for her performance at the opening of the exhibition which is organized as an hommage to artist Huseyin Bahri Apltekin.   
+Collaborating with Emre Koyuncuoglu for her performance at the opening of the exhibition which is organized as an hommage to artist Huseyin Bahri Alptekin.   
 [Exhibition homepage](https://www.galerist.com.tr/tr/dostlar-arasinda-uzun-bir-hikayeden-bir-bolum)  
 
 - **The Institute for Art in Context, UdK Exhitibition**  
