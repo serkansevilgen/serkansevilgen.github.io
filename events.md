@@ -17,6 +17,11 @@ Sydney (Australia), 9 - 11 October 2023
 Fixed-media piece *Nophesis* is presented.  
 [Conference website](https://www.une.edu.au/about-une/faculty-of-humanities-arts-social-sciences-and-education/hass/news-and-events/australasian-computer-music-conference-2023)  
 
+- **Exhibition: HÜSEYİN BAHRİ ALPTEKİN 'DOSTLAR ARASINDA: UZUN BİR HİKAYEDEN BİR BÖLÜM'**  
+Galerist, Istanbul (Turkey), 11 September 2023  
+Collaborating with Emre Koyuncuoglu for her performance at the opening of the exhibition which is organized as an hommage to artist Huseyin Bahri Apltekin.   
+[Exhibition homepage](https://www.galerist.com.tr/tr/dostlar-arasinda-uzun-bir-hikayeden-bir-bolum)  
+
 - **The Institute for Art in Context, UdK Exhitibition**  
 Berlin (Germany), 21 - 23 July.  
 The works created for "Istanbul Soundspace Project" are presented at CCA Berlin.  
