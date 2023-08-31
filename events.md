@@ -22,8 +22,13 @@ Galerist, Istanbul (Turkey), 11 September 2023
 Collaborating with Emre Koyuncuoglu for her performance at the opening of the exhibition which is organized as an hommage to artist Huseyin Bahri Alptekin.   
 [Exhibition homepage](https://www.galerist.com.tr/tr/dostlar-arasinda-uzun-bir-hikayeden-bir-bolum)  
 
+- **PAYSAGES | COMPOSÉS 2023**  
+Grenoble (France), 8, 10 September 2023  
+My electroacoustic octophonic music piece, titled "Nophesis", has been accepted for inclusion in the multichannel concert program of the PAYSAGES | COMPOSÉS 2023 - Écologie sonore ‧ Musiques de recherche (3ème édition) organized by APNÉES.  
+[Program](https://apnees.wordpress.com/paysages-composes-2023/)
+
 - **The Institute for Art in Context, UdK Exhitibition**  
-Berlin (Germany), 21 - 23 July.  
+Berlin (Germany), 21 - 23 July 2024.  
 The works created for "Istanbul Soundspace Project" are presented at CCA Berlin.  
 [Details](https://www.instagram.com/p/CvDhv3BIURS/)
 
