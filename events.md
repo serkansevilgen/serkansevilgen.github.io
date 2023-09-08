@@ -2,6 +2,11 @@
 title: Recent Events
 ---
 
+- **IS^2 2023 - 4th International Symposium on the Internet of Sounds**  
+Pisa (Italy), 26 - 27 October 2023.  
+The networked ensemble piece project "Gendy Cloud" is presented in the Demo track.  
+[Symposium website](https://internetofsounds.net/is2_2023/)  
+
 - **ICMC 2023 - The International Computer Music Conference**  
 Shenzhen (China), 15 - 20 October 2023.  
 Selected to be a reviewer for the paper track.  
@@ -9,7 +14,7 @@ Selected to be a reviewer for the paper track.
 
 - **Atmospheres Workshop**  
 Istanbul (Turkey), 13 - 14 October 2023.  
-The workshop titled "Atmospheres - Multisensorial research in Istanbul. Artistic and academic research in Dialogue", organized in collaboration with Orient Institute Is- tanbul, Concordia University (Tiohtià:ke Montreal), and Istanbul Technical University Center for Advanced Studies in Music (MIAM)  
+The workshop titled "Atmospheres - Multisensorial research in Istanbul. Artistic and academic research in Dialogue", organized in collaboration with Orient Institute Istanbul, Concordia University (Tiohtià:ke Montreal), and Istanbul Technical University Center for Advanced Studies in Music (MIAM)  
 Presenting a sound work. Details to be announced  
 
 - **Australasian Computer Music Conference 2023**  
