@@ -2,7 +2,7 @@
 title: Recent Events
 ---
 
-- **IS^2^ 2023 - 4th International Symposium on the Internet of Sounds**  
+- **IS<sup>2<sup> 2023 - 4th International Symposium on the Internet of Sounds**  
 Pisa (Italy), 26 - 27 October 2023.  
 The networked ensemble piece project "Gendy Cloud" is presented in the Demo track.  
 [Symposium website](https://internetofsounds.net/is2_2023/)  
