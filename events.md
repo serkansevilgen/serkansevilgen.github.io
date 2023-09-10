@@ -22,11 +22,6 @@ Sydney (Australia), 9 - 11 October 2023
 Fixed-media piece *Nophesis* is presented.  
 [Conference website](https://www.une.edu.au/about-une/faculty-of-humanities-arts-social-sciences-and-education/hass/news-and-events/australasian-computer-music-conference-2023)  
 
-- **Exhibition: HÜSEYİN BAHRİ ALPTEKİN 'DOSTLAR ARASINDA: UZUN BİR HİKAYEDEN BİR BÖLÜM'**  
-Galerist, Istanbul (Turkey), 11 September 2023  
-Collaborating with Emre Koyuncuoglu for her performance at the opening of the exhibition which is organized as an hommage to artist Huseyin Bahri Alptekin.   
-[Exhibition homepage](https://www.galerist.com.tr/tr/dostlar-arasinda-uzun-bir-hikayeden-bir-bolum)  
-
 - **PAYSAGES | COMPOSÉS 2023**  
 Grenoble (France), 8, 10 September 2023  
 My electroacoustic octophonic music piece, titled "Nophesis", has been accepted for inclusion in the multichannel concert program of the PAYSAGES | COMPOSÉS 2023 - Écologie sonore ‧ Musiques de recherche (3ème édition) organized by APNÉES.  
