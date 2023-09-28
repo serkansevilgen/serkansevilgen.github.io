@@ -22,6 +22,13 @@ Sydney (Australia), 9 - 11 October 2023
 Fixed-media piece *Nophesis* is presented.  
 [Conference website](https://www.une.edu.au/about-une/faculty-of-humanities-arts-social-sciences-and-education/hass/news-and-events/australasian-computer-music-conference-2023)  
 
+- **International Music Day Spatial Sound Installation**  
+Talinn (Estonia), 1 October 2023  
+Fixed-media ambisonics piece *Nophesis* is presented at Estonian Academy of Music and Theatre.  
+
+"We celebrate the International Music Day with a seven-hour spatial installation, which is made up of works created for the EMTA black box surround sound system set up especially for this occasion - compositions whose sounds can be heard from any direction."  
+[Event page](https://www.facebook.com/events/s/rahvusvaheline-muusikapaev-ruu/1018359932697986/)  
+
 - **PAYSAGES | COMPOSÉS 2023**  
 Grenoble (France), 8, 10 September 2023  
 My electroacoustic octophonic music piece, titled "Nophesis", has been accepted for inclusion in the multichannel concert program of the PAYSAGES | COMPOSÉS 2023 - Écologie sonore ‧ Musiques de recherche (3ème édition) organized by APNÉES.  
