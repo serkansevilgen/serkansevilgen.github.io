@@ -24,9 +24,7 @@ Fixed-media piece *Nophesis* is presented.
 
 - **International Music Day Spatial Sound Installation**  
 Talinn (Estonia), 1 October 2023  
-Fixed-media ambisonics piece *Nophesis* is presented at Estonian Academy of Music and Theatre.  
-
-"We celebrate the International Music Day with a seven-hour spatial installation, which is made up of works created for the EMTA black box surround sound system set up especially for this occasion - compositions whose sounds can be heard from any direction."  
+Fixed-media ambisonics piece *Nophesis* is presented at Estonian Academy of Music and Theatre. "We celebrate the International Music Day with a seven-hour spatial installation, which is made up of works created for the EMTA black box surround sound system set up especially for this occasion - compositions whose sounds can be heard from any direction."  
 [Event page](https://www.facebook.com/events/s/rahvusvaheline-muusikapaev-ruu/1018359932697986/)  
 
 - **PAYSAGES | COMPOSÉS 2023**  
