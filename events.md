@@ -24,10 +24,8 @@ Fixed-media piece *Nophesis* is presented.
 
 - **EM-visia 2023 Concert**  
 Kyiv (Ukriane), 3 October 2023  
-My fixed-media piece "Nophesis" is presented at the CIME/ ICEM (International Confederation of Electroacoustic Music) section of the EM-visia 2023 concert, organized by the  Ukrainian Association of Electroacoustic Music - UAEM.
-
-EM-visia is an international project of electroacoustic, experimental electronic music and media art that has been taking place in Kyiv since 2005 (curator - Alla Zagaykevych)
-Programs of EM-visia concerts and workshops cover a wide genre spectrum of modern electronic music - from concert works by composers of the academic electroacoustic scene, audio-visual performances, sonorous installations, performances by musicians of experimental electronic music, video art.  
+My fixed-media piece "Nophesis" is presented at the CIME/ ICEM (International Confederation of Electroacoustic Music) section of the EM-visia 2023 concert, organized by the  Ukrainian Association of Electroacoustic Music - UAEM. "EM-visia is an international project of electroacoustic, experimental electronic music and media art that has been taking place in Kyiv since 2005 (curator - Alla Zagaykevych)
+Programs of EM-visia concerts and workshops cover a wide genre spectrum of modern electronic music - from concert works by composers of the academic electroacoustic scene, audio-visual performances, sonorous installations, performances by musicians of experimental electronic music, video art."  
 [Program](https://drive.google.com/file/d/1u-ilblQo-VCgB18VN4HYLoZ9Ebm_tQ7q/view?fbclid=IwAR2qd5oN2z4wKqwGmYbTfXtSkQfVUAqb2d1CTqLlBmbNHgAkXTls55P9F-o)  
 
 - **International Music Day Spatial Sound Installation**  
