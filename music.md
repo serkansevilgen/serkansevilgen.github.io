@@ -4,7 +4,7 @@ title: Music
 
 # Aeolian Resonz 
 
-*2023 - Fixed media, soundscape, sonification, sensors*
+*2023 - Fixed media, soundscape, sonification, Arduino, Csound*
 
 <https://soundcloud.com/serkansevilgen/aeolian-resonz-2023-10-11>
 
