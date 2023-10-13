@@ -2,6 +2,15 @@
 title: Music
 ---
 
+# Aeolian Resonz 
+
+*2023 - Fixed media, soundscape, sonification, sensors*
+
+<https://soundcloud.com/serkansevilgen/aeolian-resonz-2023-10-11>
+
+The sound work explores the natural phenomenon of wind as a perceptual agent acting on various human senses. Tactile sensation is the primary means through which we experience wind. The touch receptors in our skin detect the pressure and movement of air. This tactile sensation can differ based on the strength of the wind, ranging from a gentle caress to a forceful push. Wind also influences our perception of temperature. It can produce sounds as it moves through trees, leaves, grass, buildings, and other obstacles. The rustling of leaves, the creaking of branches, and the howling during strong winds are auditory experiences linked with wind. The speed and direction of the wind can alter the pitch and intensity of these sounds. Differences in atmospheric pressure cause air to move from one location to another over various distances, with different intensities and durations. The work employs data collected by the artist with microcontrollers and air pressure sensors. This data highlights the direction and speed of the "virtual" wind, which is a primary controller in the musical design.
+
+
 # Nophesis
 
 *2023 - Fixed media, algorithmic composition, soundscape*
