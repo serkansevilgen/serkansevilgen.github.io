@@ -2,32 +2,32 @@
 title: Recent Events
 ---
 - **NIME - New Interfaces for Musical Expression 2024**  
-Utrecht (Netherlands) - 4/6 September 2024  
+Utrecht (Netherlands),  4 - 6 September 2024  
 Contributed to the conference as a peer-reviewer for paper and music tracks.  
 [Conference website](https://www.nime2024.org/)
 
 - **Tallinn Music Week**  
-Talin (Estonia) - 4 Aoril 2024  
+Talinn (Estonia),  4 April 2024  
 My piece Nophesis is played at the "Zenith - Ambisonic Fixed-Media Concert" during Tallin Music Week.  
 [Festival website](https://tmw.ee/events/zenith)
 
 - **DIY Experimental Electronic Music Concert**  
-Istanbul (Turkey) - 15 March 2024  
+Istanbul (Turkey), 15 March 2024  
 Performed live computer music with Sair Sinan Kestelli.  
 https://www.instagram.com/p/C4XseCWCfhb/
 
 - **Noise of Istanbul New Media Festival**  
-Istanbul (Turkey) - 21 January 2024  
+Istanbul (Turkey),  21 January 2024  
 Performed live with SuperCollider at the concert curated by MIAM and presented a workshop on Computer Music  
 https://www.noise.ist/
 
 - **Bilgi University New Music Festival**  
-Istanbul (Turkey) - 18 November 2023  
+Istanbul (Turkey),  18 November 2023  
 My fixed-media, ambisonics  piece "Nophesis" is presented 
 [Festival website](https://music.bilgi.edu.tr/tr/bilgi-yeni-muzik-festivali-14/)
 
 - **Cranelab Acousmathèque Multicanal**
-Millery (France) - 29 October 2023  
+Millery (France),  29 October 2023  
 My piece is included into Cranelab's Acousmathèque Multicanal listening room.  
 https://www.instagram.com/p/Cy_E0p7MEwe/
 
