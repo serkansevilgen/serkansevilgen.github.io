@@ -26,7 +26,7 @@ Istanbul (Turkey) - 18 November 2023
 My fixed-media, ambisonics  piece "Nophesis" is presented 
 [Festival website](https://music.bilgi.edu.tr/tr/bilgi-yeni-muzik-festivali-14/)
 
-- Cranelab Acousmathèque Multicanal
+- **Cranelab Acousmathèque Multicanal**
 Millery (France) - 29 October 2023  
 My piece is included into Cranelab's Acousmathèque Multicanal listening room.  
 https://www.instagram.com/p/Cy_E0p7MEwe/
