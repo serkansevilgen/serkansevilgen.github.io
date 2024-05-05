@@ -1,7 +1,7 @@
 ---
 title: Recent Events
 ---
-- **NIME - New Interfaces for Musical Expression 2024**
+	- **NIME - New Interfaces for Musical Expression 2024**  
 Utrecht (Netherlands) - 4/6 September 2024  
 Contributed to the conference as a peer-reviewer for paper and music tracks.  
 [Conference website](https://www.nime2024.org/)
@@ -17,7 +17,7 @@ Performed live computer music with Sair Sinan Kestelli.
 https://www.instagram.com/p/C4XseCWCfhb/
 
 - **Noise of Istanbul New Media Festival**  
-Istanbul (Turkey)   21 January 2024  
+Istanbul (Turkey) - 21 January 2024  
 Performed live with SuperCollider at the concert curated by MIAM and presented a workshop on Computer Music  
 https://www.noise.ist/
 
