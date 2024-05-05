@@ -1,7 +1,7 @@
 ---
 title: Recent Events
 ---
-	- **NIME - New Interfaces for Musical Expression 2024**  
+- **NIME - New Interfaces for Musical Expression 2024**  
 Utrecht (Netherlands) - 4/6 September 2024  
 Contributed to the conference as a peer-reviewer for paper and music tracks.  
 [Conference website](https://www.nime2024.org/)
