@@ -1,6 +1,21 @@
 ---
 title: Recent Events
 ---
+- **ICSC International Csound Conference**  
+Vienna (Austria),  17 - 20 September 2024  
+The networked ensemble piece project "Gendy Cloud" will be performed.   
+[Conference website](https://mdw.ac.at/icsc2024/)
+
+- **NIME - New Interfaces for Musical Expression 2024**  
+Utrecht (Netherlands),  4 - 6 September 2024  
+Contributed to the conference as a peer-reviewer for paper and music tracks.  
+[Conference website](https://www.nime2024.org/)
+
+- **Compophonic Sessions Vol. 1**  
+Vienna (Austria),  17 - 20 September 2024  
+Performed live with SuperCollider and Flucoma.
+[Video](https://www.youtube.com/watch?v=8-5k5Qdl9y0)
+
 - **NIME - New Interfaces for Musical Expression 2024**  
 Utrecht (Netherlands),  4 - 6 September 2024  
 Contributed to the conference as a peer-reviewer for paper and music tracks.  
@@ -19,7 +34,8 @@ https://www.instagram.com/p/C4XseCWCfhb/
 - **Noise of Istanbul New Media Festival**  
 Istanbul (Turkey),  21 January 2024  
 Performed live with SuperCollider at the concert curated by MIAM and presented a workshop on Computer Music  
-https://www.noise.ist/
+[Festival website](https://www.noise.ist/)  
+[Video](https://www.youtube.com/watch?v=5ODq_OnWZ-I)
 
 - **Bilgi University New Music Festival**  
 Istanbul (Turkey),  18 November 2023  
