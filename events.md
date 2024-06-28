@@ -12,14 +12,9 @@ Contributed to the conference as a peer-reviewer for paper and music tracks.
 [Conference website](https://www.nime2024.org/)
 
 - **Compophonic Sessions Vol. 1**  
-Vienna (Austria),  17 - 20 September 2024  
+Istanbul (Turkey),  23 May 2024  
 Performed live with SuperCollider and Flucoma.
 [Video](https://www.youtube.com/watch?v=8-5k5Qdl9y0)
-
-- **NIME - New Interfaces for Musical Expression 2024**  
-Utrecht (Netherlands),  4 - 6 September 2024  
-Contributed to the conference as a peer-reviewer for paper and music tracks.  
-[Conference website](https://www.nime2024.org/)
 
 - **Tallinn Music Week**  
 Talinn (Estonia),  4 April 2024  
