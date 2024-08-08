@@ -11,6 +11,11 @@ Utrecht (Netherlands),  4 - 6 September 2024
 Contributed to the conference as a peer-reviewer for paper and music tracks.  
 [Conference website](https://www.nime2024.org/)
 
+- Works for Loudspeakers
+Wellington (New Zealand), 31 Jul 2024  
+My piece "Strng Wnd" (2019) is part of the concert program  
+[Post](https://www.facebook.com/events/470594068938207/?post_id=474592498538364&view=permalink)
+
 - **Compophonic Sessions Vol. 1**  
 Istanbul (Turkey),  23 May 2024  
 Performed live with SuperCollider and Flucoma.
