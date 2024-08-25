@@ -1,6 +1,11 @@
 ---
 title: Recent Events
 ---
+- **IEEE International Symposium on the Internet of Sounds**  
+Erlangen (Germany),  30 September - 2 October 2024  
+The networked ensemble piece project "Gendy Cloud" will be performed.   
+[Conference website](https://internetofsounds2024.ieee-is2.org/)
+
 - **ICSC International Csound Conference**  
 Vienna (Austria),  17 - 20 September 2024  
 The networked ensemble piece project "Gendy Cloud" will be performed.   
@@ -13,7 +18,7 @@ Contributed to the conference as a peer-reviewer for paper and music tracks.
 
 - **Works for Loudspeakers**
 Wellington (New Zealand), 31 Jul 2024  
-My piece "Strng Wnd" (2019) is part of the concert program  
+My piece "Strng Wnd" (2019) is part of 28th installment of the concert series, [Works for Loudspeakers](Works for Loudspeakers)   
 [Post](https://www.facebook.com/events/470594068938207/?post_id=474592498538364&view=permalink)
 
 - **Compophonic Sessions Vol. 1**  
