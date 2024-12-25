@@ -23,34 +23,34 @@ The Csound audio code has a sound generator instrument that utilizes the Gendy o
 The movements of sounds in a multichannel system are controlled by random processes which also depend on the duration of the sound event. If it is shorter than one second the location of the sound is static. Otherwise, it moves randomly from one location to another.  
 
 - Demo
-  https://youtu.be/QDBQICae23A
+  [https://youtu.be/QDBQICae23A](https://youtu.be/QDBQICae23A)
 
 The previous performances:
 
 - **ICSC International Csound Conference**
   /mdw - University of Music and Performing Arts (Vienna, Austria), 18 September 2024/
 
-  https://www.youtube.com/shorts/6h8mm8lxjOM
+  [https://www.youtube.com/shorts/6h8mm8lxjOM](https://www.youtube.com/shorts/6h8mm8lxjOM)
   
   34 performers at location: Conference participants
 
 - **IEEE International Symposium on the Internet of Sounds**
   /Fraunhofer Institute for Integrated Circuits IIS (Erlangen, Germany), 1 October 2024/
 
-  https://www.youtube.com/watch?v=SkRsG-N8_Is
+  [https://www.youtube.com/watch?v=SkRsG-N8_Is](https://www.youtube.com/watch?v=SkRsG-N8_Is)
 
   46 performers at location: Symposium participants
   
 - **SONIFIED Symposium**
    /Arter Museum (Istanbul, Turkey), 29 December 2022/
 
-   https://www.youtube.com/watch?v=uBC3avitRGg
+   [https://www.youtube.com/watch?v=uBC3avitRGg](https://www.youtube.com/watch?v=uBC3avitRGg)
 
    Seven performers from five cities: Danny Fratina  (Boston, USA), Umut Eldem  (Antwerp, Belgium), Dimitri Papageorgiou (Thessaloniki, Greece), Vasilis Agiomyrgianakis (Athens, Greece),  Nihan Tahtaişleyen (Istanbul, Turkey), Manolis Ekmektsoglou (Istanbul, Turkey), Serkan Sevilgen (Istanbul, Turkey), 
 
 - **XNPM22: Xenakis Networked Performance Marathon**
   /Athens Conservatory (Athens, Greece), 17 December 2022/
 
-  https://www.youtube.com/watch?v=bKlwMrMdlnI
+  [https://www.youtube.com/watch?v=bKlwMrMdlnI](https://www.youtube.com/watch?v=bKlwMrMdlnI)
 
   Five performers from three cities: Iannis Zannos(Japan), Vasilis Agiomyrgianakis (Greece), Serkan Sevilgen (Greece), Manolis Ekmektsoglou(Istanbul), Nihan Tahtaişleyen(Istanbul)
