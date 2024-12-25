@@ -1,6 +1,16 @@
 ---
 title: Recent Events
 ---
+- **BILGI New Music Festival 15**  
+Arter Museum - Istanbul (Turkey),  10 - 14 December 2024  
+The networked ensemble piece project "Gendy Cloud" is performed by remote collaborators.   
+[Festival website](https://music.bilgi.edu.tr/en/bilgi-new-music-festival-15/)
+
+- **MIAM 25th Anniversary Events**  
+Arter Museum - Istanbul (Turkey),  10 - 14 December 2024  
+The networked ensemble piece project "Gendy Cloud" is performed by "MIAM Gendy Ensemble"   
+[Events nooklet](https://miam.itu.edu.tr/docs/librariesprovider88/mi-am-25/m%C4%B1am25_booklet_son.pdf?sfvrsn=8ddcba88_4)
+
 - **IEEE International Symposium on the Internet of Sounds**  
 Erlangen (Germany),  30 September - 2 October 2024  
 The networked ensemble piece project "Gendy Cloud" will be performed.   
