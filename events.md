@@ -1,6 +1,49 @@
 ---
 title: Recent Events
 ---
+- **PODIUM for MIAM**  
+Hannover (Germany),  28 June 2025  
+Concert by students of the Department of Composition and Sonic Arts of the MIAM - Center for Advanced Studies Istanbul organized by Incontri - Institut für neue Musik at Hochschule für Musik, Theater und Medien Hannover  
+[Incontri News](https://www.incontri.hmtm-hannover.de/de/veranstaltungen/archiv/2025/)   
+[Musik21 Niedersachsen](https://musik21niedersachsen.de/veranstaltung/podium-fuer-miam)   
+[STADTKIND - hannovermagazin](https://www.stadtkind-kalender.de/event/podium-f%C3%BCr-miam)
+
+- **SONIFIED - A Symposium of Sonic Practices**  
+Arter Museum, Istanbul, 9 - 10 May 2025  
+Presented the research "A Timbre-Oriented Mapping Strategy Utilizing Multiple Neural Network Algorithms for Digital Musical Instruments"  
+[Program booklet](https://miam.itu.edu.tr/docs/librariesprovider88/sonified-2025/sonified-%C4%B1%C4%B1%C4%B1-2025-program.pdf?sfvrsn=5ce723d4_22)
+
+- **SONIFIED - A Symposium of Sonic Practices**  
+Arter Museum, Istanbul, 9 - 10 May 2025  
+Sair Sinan Kestelli presented "Exploring Dynamics between Different Processes, Roles, Subjects and Objects of Musicking
+Through a Network Music Ensemble" co-authored by Serkan Sevilgen
+[Program booklet](https://miam.itu.edu.tr/docs/librariesprovider88/sonified-2025/sonified-%C4%B1%C4%B1%C4%B1-2025-program.pdf?sfvrsn=5ce723d4_22)
+
+- **SONIFIED - A Symposium of Sonic Practices**  
+Arter Museum, Istanbul, 9 - 10 May 2025  
+MIAM Gendy Ensemble performed live.
+[Program booklet](https://miam.itu.edu.tr/docs/librariesprovider88/sonified-2025/sonified-%C4%B1%C4%B1%C4%B1-2025-program.pdf?sfvrsn=5ce723d4_22)
+
+- **SONIFIED - A Symposium of Sonic Practices**  
+Arter Museum, Istanbul, 9 - 10 May 2025  
+Presented an installation piece "Decomposed Crowd: A Sketch for Forty Voices (2025)"  
+[Program booklet](https://miam.itu.edu.tr/docs/librariesprovider88/sonified-2025/sonified-%C4%B1%C4%B1%C4%B1-2025-program.pdf?sfvrsn=5ce723d4_22)
+
+- **Sesin Yolculugu (Journey of Sound Young Composers Festival) 2025**  
+Istanbul (Turkey), 2 May 2025  
+Panel participant at the session "Sesin Geleceği: Estetik ve Teknolojinin Kesişiminde Çağdaş Müzik (The Future of Sound: Contemporary Music at the Intersection of Aesthetics and Technology)"  
+[https://sesinyolculugu.com/festivaller/16-2/seminer-ve-paneller/](https://sesinyolculugu.com/festivaller/16-2/seminer-ve-paneller/)
+
+- **Convergence Seminar 2025**  
+Royal Conservatoire Antwerp, Antwerp (Belgium), 11 - 12 March 2025  
+Presented the "Exploring Dynamics Between Different Roles of Musicking through a Networked Music Ensemble" co-authored by Sair Sinan Kestelli.   
+[https://www.ap-arts.be/en/event/convergence-2025](https://www.ap-arts.be/en/event/convergence-2025)
+
+- **Convergence Seminar 2025**  
+Royal Conservatoire Antwerp, Antwerp (Belgium), 11 - 12 March 2025  
+A distributed concert at Royal Conservatoire Antwerp, ITU MIAM, and Web by MIAM Gendy Ensemble  
+[https://www.ap-arts.be/en/event/convergence-2025](https://www.ap-arts.be/en/event/convergence-2025)
+
 - **BILGI New Music Festival 15**  
 Arter Museum - Istanbul (Turkey),  10 - 14 December 2024  
 The networked ensemble piece project "Gendy Cloud" is performed by remote collaborators.   
@@ -9,7 +52,7 @@ The networked ensemble piece project "Gendy Cloud" is performed by remote collab
 - **MIAM 25th Anniversary Events**  
 Arter Museum - Istanbul (Turkey),  10 - 14 December 2024  
 The networked ensemble piece project "Gendy Cloud" is performed by "MIAM Gendy Ensemble"   
-[Events nooklet](https://miam.itu.edu.tr/docs/librariesprovider88/mi-am-25/m%C4%B1am25_booklet_son.pdf?sfvrsn=8ddcba88_4)
+[Events booklet](https://miam.itu.edu.tr/docs/librariesprovider88/mi-am-25/m%C4%B1am25_booklet_son.pdf?sfvrsn=8ddcba88_4)
 
 - **IEEE International Symposium on the Internet of Sounds**  
 Erlangen (Germany),  30 September - 2 October 2024  
