@@ -15,8 +15,7 @@ Presented the research "A Timbre-Oriented Mapping Strategy Utilizing Multiple Ne
 
 - **SONIFIED - A Symposium of Sonic Practices**  
 Arter Museum, Istanbul, 9 - 10 May 2025  
-Sair Sinan Kestelli presented "Exploring Dynamics between Different Processes, Roles, Subjects and Objects of Musicking
-Through a Network Music Ensemble" co-authored by Serkan Sevilgen
+Sair Sinan Kestelli presented "Exploring Dynamics between Different Processes, Roles, Subjects and Objects of Musicking Through a Network Music Ensemble" co-authored by Serkan Sevilgen   
 [Program booklet](https://miam.itu.edu.tr/docs/librariesprovider88/sonified-2025/sonified-%C4%B1%C4%B1%C4%B1-2025-program.pdf?sfvrsn=5ce723d4_22)
 
 - **SONIFIED - A Symposium of Sonic Practices**  
@@ -71,8 +70,9 @@ Contributed to the conference as a peer-reviewer for paper and music tracks.
 
 - **Works for Loudspeakers**
 Wellington (New Zealand), 31 Jul 2024  
-My piece "Strng Wnd" (2019) is part of 28th installment of the concert series, [Works for Loudspeakers](Works for Loudspeakers)   
-[Post](https://www.facebook.com/events/470594068938207/?post_id=474592498538364&view=permalink)
+My piece "Strng Wnd" (2019) is part of 28th installment of the concert series, and a compilation release, "Works for Loudspeakers #28" by Sonorous Circle   
+[Sonorous Circle](https://sonorouscircle.com/music/works-for-loudspeakers-28/)   
+[Bandcamp](https://wfls.bandcamp.com/album/wfls-28)
 
 - **Compophonic Sessions Vol. 1**  
 Istanbul (Turkey),  23 May 2024  
@@ -90,7 +90,7 @@ Performed live computer music with Sair Sinan Kestelli.
 https://www.instagram.com/p/C4XseCWCfhb/
 
 - **Noise of Istanbul New Media Festival**  
-Istanbul (Turkey),  21 January 2024  
+Istanbul (Turkey),  21 January 2024   
 Performed live with SuperCollider at the concert curated by MIAM and presented a workshop on Computer Music  
 [Festival website](https://www.noise.ist/)  
 [Video](https://www.youtube.com/watch?v=5ODq_OnWZ-I)
