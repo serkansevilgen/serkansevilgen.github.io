@@ -145,7 +145,7 @@ My electroacoustic octophonic music piece, titled "Nophesis", has been accepted 
 - **The Institute for Art in Context, UdK Exhitibition**  
 Berlin (Germany), 21 - 23 July 2024.  
 The works created for "Istanbul Soundspace Project" are presented at CCA Berlin.  
-[Details](https://www.instagram.com/p/CvDhv3BIURS/)
+[Details](https://www.ozcanertek.com/news/exhibition-istanbul-soundscape-project-1)
 
 - **NYCEMF - The New York City Electroacoustic Music Festival**  
 New York (USA), 19 - 25 June 2023  
