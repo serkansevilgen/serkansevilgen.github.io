@@ -1,7 +1,7 @@
 ---
 title: Recent Events
 ---
-- ** AMFIBIO Sound Days**  
+- **AMFIBIO Sound Days**  
 Artistanbul Feshane, Istanbul, 21 September 2025  
 MIAM Gendy Ensemble performed live compositions of 7 composers through the speakers of the work by Cevdet Erek,  commisioned by La Biennale di Venezia  
 [Event page](https://www.labiennale.org/en/news/la-biennale-di-venezia-presents-amfibio-sound-days)  
