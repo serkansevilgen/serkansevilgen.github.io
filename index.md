@@ -12,7 +12,7 @@ Serkan Sevilgen is an electroacoustic music composer who employs his professiona
 
 Serkan Sevilgen, profesyonel programlama becerilerini bilgisayar müziği yaratmak için kullanan bir elektroakustik müzik bestecisidir. Afet modelleme şirketi Temblor, Inc.'in Mühendislik Direktörü olarak çalışmaktadır. Sevilgen, İstanbul Teknik Üniversitesi Müzikte İleri Araştırmalar Merkezinden (MIAM) ve Yıldız Teknik Üniversitesi Müzik ve Sahne Sanatları Bölümünden olmak üzere iki yüksek lisans derecesine sahiptir. Ses üzerine odaklanan bir sanat inisiyatifi olan Soundinit'in ortak kurucusu ve ağ tabanlı bir müzik topluluğu olan WORC'un kurucusudur. İstanbul Kodlama Topluluğu (Istanbul Coding Ensemble) üyesidir. Müzikal çalışmaları ve araştırmaları bilgisayar müziği, sonifikasyon, ağ tabanlı müzik sistemleri, web tabanlı ses, canlı kodlama, stokastik yöntemler ve ses manzarası üzerine yoğunlaşmaktadır. Sevilgen, eserlerini ICMC, NIME, SMC, ISMIR, Xenakis Networked Performance Marathon ve New York City Electroacoustic Music Festival gibi uluslararası etkinliklerde sunmuştur.
 
-[**CV**](/docs/Serkan-Sevilgen-CV.pdf)  
+[**CV**](/docs/Serkan-Sevilgen-CV-tabular.pdf)  
 
 [**RECENT EVENTS**](/events.html)  
 

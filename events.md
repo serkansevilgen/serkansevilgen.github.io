@@ -1,6 +1,25 @@
 ---
 title: Recent Events
 ---
+- ** AMFIBIO Sound Days**  
+Artistanbul Feshane, Istanbul, 21 September 2025  
+MIAM Gendy Ensemble performed live compositions of 7 composers through the speakers of the work by Cevdet Erek,  commisioned by La Biennale di Venezia  
+[Event page](https://www.labiennale.org/en/news/la-biennale-di-venezia-presents-amfibio-sound-days)  
+[Program Notes](https://drive.google.com/file/d/17J_Fe6mY-XFf2wD_JOUZHiU1I0GzUtr0/view)  
+
+
+- **Noise Media Art OI_SONIC**  
+Bomontiada, Istanbul, 21 September 2025  
+MIAM Gendy Ensemble performed live compositions of 7 composers.  
+[Post](https://www.instagram.com/p/DO1IgraiKou/?img_index=1)  
+[Program Notes](https://drive.google.com/file/d/1z0WyI7zWJQ-AwYLGCxtIIuhtZqecAPMt/view)  
+
+
+- **Noise Media Art OI_SONIC**  
+Bomontiada, Istanbul, 21 September 2025  
+"Collaborative Music with /Gendy Cloud/" workshop held with Sair Sinan Kestelli  
+[Post](https://www.instagram.com/p/DO1EPjbDP_g/)  
+
 - **PODIUM for MIAM**  
 Hannover (Germany),  28 June 2025  
 Concert by students of the Department of Composition and Sonic Arts of the MIAM - Center for Advanced Studies Istanbul organized by Incontri - Institut für neue Musik at Hochschule für Musik, Theater und Medien Hannover  
