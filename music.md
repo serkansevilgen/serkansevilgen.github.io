@@ -2,6 +2,39 @@
 title: Music
 ---
 
+# Listening to Latentscape
+*2025 - MaxMSP, RAVE*
+
+This piece is based on continuous soundwalk recordings I made in Istanbul, during walks carried out with Fulya Uçanok as part of our Soundinit initiative. These recordings capture the real-time ambient sounds of the city—not by seeking out specific events or keynote sounds, but by simply walking and listening. As a result, the material is inherently noisy, layered, and unpredictable. I used this raw urban soundscape to train RAVE, a neural synthesis model developed at IRCAM. Because the source lacks clear acoustic patterns, the AI learns to generate similarly textured and ambiguous sonic material. In performance, I present both the original recordings and the AI-generated sounds in a multichannel format, applying the same electroacoustic transformations to both. The result blurs the line between real and artificial soundscapes, and also between our expectations of city sounds and their reality.
+
+4-channel stems available upon request.
+
+# Decomposed Crowd: A Sketch for Forty Voices
+*2025 - Installation, SuperCollider, FluCoMa, multichannel*
+
+The sonic material of this piece is derived from field recordings captured during the audience's anticipation period at the Xenakis Centenary Symposium in 2022. These recordings were subjected to spectral decomposition using the Non-negative Matrix Factorization (NMF) algorithm, as implemented in the FluCoMa (Fluid Corpus Manipulation) library within the SuperCollider environment. The resulting dataset was segmented into 40 distinct components representing latent sonic features. Selected components yield timbres that are abstract in nature, yet exhibit spectral characteristics reminiscent of vocal formants.
+
+8-channel stems available upon request.
+
+# Live Computer Music 
+*2024 - Gendy Cloud*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FB1XJBtLh58?si=hb4GQt7N_XfgbZ-b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Performers:  
+Arda Eden - Istanbul (Turkey)  
+Giovanni Bedetti - Urbino (Italy)  
+Manolis Ekmektsoglou - Istanbul (Turkey)  
+Serkan Sevilgen- Istanbul (Turkey)  
+Tarmo Johannes - Tallinn (Estonia)  
+Umut Eldem - Antwerp (Belgium)  
+
+# Live Computer Music
+*2024 - Live, Supercollider, Flucoma*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5ODq_OnWZ-I?si=QiyOdw7rUvmFSM1x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 # Aeolian Resonz 
 
 *2023 - Fixed media, soundscape, sonification, Arduino, Csound*
