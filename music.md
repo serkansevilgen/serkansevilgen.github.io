@@ -74,7 +74,7 @@ The sound materials for the piece are the recordings of the police helicopters t
 
 *2022 - Live electronics, networked music, web audio, Python, Arduino, Csound*  
 
-<https://www.youtube.com/watch?v=-ARbqdgwxSU>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-ARbqdgwxSU?si=YKXgGkqiQ0kmgxvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 A real-time, telematic, biodata sonification project with Ipek Oskay. It was performed at **NIME 2022**, **SMC 22**, **Taking Place and Making Place Conference**, **Earth Day Art Model Telematic Festival**.  
 
@@ -85,7 +85,7 @@ See details and performance videos [here](https://serkansevilgen.com/sounding-mi
 
 *2021 - Live Coding, Networked music, SuperCollider*  
 
-<https://www.youtube.com/watch?v=L_mgsEHc3KY>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L_mgsEHc3KY?si=PxU5vu2R0ioPVqX2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Istanbul Coding Ensemble (ICE), Jerfi Aji, and Scott Wilson perform “with live coding based on machine listening data shared over network” version of “Symphony in Blue” by composer Kamran Ince.  
 
@@ -110,7 +110,7 @@ Live performance
 
 *2021 - Mixed composition, Lilypond, Csound*  
 
-<https://www.youtube.com/watch?v=aKCNPT1IOjk>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aKCNPT1IOjk?si=ePHyqbfNGFQjkjp2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 # Inside Outside (w. Fulya Ucanok)
@@ -130,7 +130,7 @@ Serkan Sevilgen ~ Soundscapes
 
 *2021 - Live electronics, live Coding, Python, SuperCollider, Arduino*  
 
-<https://www.youtube.com/watch?v=2FMzYgew6co>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2FMzYgew6co?si=1yTLCxVLxHwWd62g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Live coding is usually associated with computer-based sound generation. In this piece I try to explore the area of live coding for acoustic objects. Live coding with Python language acts as an interface to control the servo motors which are attached to an Arduino board. A microphone picks the sound and a Supercollider-based live coding interface manipulates the sounds gently. The piece is inspired by the work of Andre Valle. However the output is aimed at generating more limited sets of sounds and not excessive manipulation respecting the silent moments.  
 
@@ -141,7 +141,7 @@ Presented at [**ICMC 2022**](https://icmc2022.files.wordpress.com/2022/07/icmc20
 
 *2020 - live electronics, Csound*  
 
-<https://www.youtube.com/watch?v=u9f-rb_YWTo>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u9f-rb_YWTo?si=Thf4gOPWFC8K1I6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 In this performance, the duo delves into the discourses around the Pythagorean curtain that has been an inspiration for the acousmatic tradition. Taking it literally, the performance integrates an actual curtain in physical space performance conditions, However, they use other virtual tools to create the curtain for network performances. The curtain aims to weave together historical and current discourses around acousmatic music practice. Integrating the acousmatic into a live performance setting, they create dialogues between parallel worlds of source-bonded/source-ambiguous sound events, various forms of presences/absences, the real/unreal, and linearity/non-linearity in the narrative.  
 
