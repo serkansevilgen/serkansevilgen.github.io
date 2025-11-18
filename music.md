@@ -12,6 +12,8 @@ This piece is based on continuous soundwalk recordings I made in Istanbul, durin
 # Decomposed Crowd: A Sketch for Forty Voices
 *2025 - Installation, SuperCollider, FluCoMa, multichannel*
 
+<img src="./images/Serkan-Sevilgen-Decomposed-Arter-Sonified.jpg" width="560" />
+
 The sonic material of this piece is derived from field recordings captured during the audience's anticipation period at the Xenakis Centenary Symposium in 2022. These recordings were subjected to spectral decomposition using the Non-negative Matrix Factorization (NMF) algorithm, as implemented in the FluCoMa (Fluid Corpus Manipulation) library within the SuperCollider environment. The resulting dataset was segmented into 40 distinct components representing latent sonic features. Selected components yield timbres that are abstract in nature, yet exhibit spectral characteristics reminiscent of vocal formants.
 
 8-channel stems available upon request.
