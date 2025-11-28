@@ -23,7 +23,7 @@ The sonic material of this piece is derived from field recordings captured durin
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FB1XJBtLh58?si=hb4GQt7N_XfgbZ-b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-A /Gendy Cloud/ performance based on remote improvisation.
+A *Gendy Cloud* performance based on remote improvisation.
 
 Performers:  
 Arda Eden - Istanbul (Turkey)  
@@ -33,7 +33,7 @@ Serkan Sevilgen- Istanbul (Turkey)
 Tarmo Johannes - Tallinn (Estonia)  
 Umut Eldem - Antwerp (Belgium)  
 
-# Live Codingc
+# Live Coding
 *2024 - Live coding, Supercollider, Flucoma*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5ODq_OnWZ-I?si=QiyOdw7rUvmFSM1x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
