@@ -3,7 +3,7 @@ title: Music
 ---
 
 # Listening to Latentscape
-*2025 - MaxMSP, RAVE*
+*2025 - MaxMSP, RAVE, ambisonics*
 
 This piece is based on continuous soundwalk recordings I made in Istanbul, during walks carried out with Fulya Uçanok as part of our Soundinit initiative. These recordings capture the real-time ambient sounds of the city—not by seeking out specific events or keynote sounds, but by simply walking and listening. As a result, the material is inherently noisy, layered, and unpredictable. I used this raw urban soundscape to train RAVE, a neural synthesis model developed at IRCAM. Because the source lacks clear acoustic patterns, the AI learns to generate similarly textured and ambiguous sonic material. In performance, I present both the original recordings and the AI-generated sounds in a multichannel format, applying the same electroacoustic transformations to both. The result blurs the line between real and artificial soundscapes, and also between our expectations of city sounds and their reality.
 
@@ -18,10 +18,12 @@ The sonic material of this piece is derived from field recordings captured durin
 
 8-channel stems available upon request.
 
-# Live Computer Music 
-*2024 - Gendy Cloud*
+# Live Networked Music 
+*2024 - Gendy Cloud, web audio, Csound, networked music*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FB1XJBtLh58?si=hb4GQt7N_XfgbZ-b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+A /Gendy Cloud/ performance based on remote improvisation.
 
 Performers:  
 Arda Eden - Istanbul (Turkey)  
@@ -31,11 +33,23 @@ Serkan Sevilgen- Istanbul (Turkey)
 Tarmo Johannes - Tallinn (Estonia)  
 Umut Eldem - Antwerp (Belgium)  
 
-# Live Computer Music
-*2024 - Live, Supercollider, Flucoma*
+# Live Codingc
+*2024 - Live coding, Supercollider, Flucoma*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5ODq_OnWZ-I?si=QiyOdw7rUvmFSM1x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Noise_Media Art's new program OI_Sonic, developed in partnership with ITU MIAM.
+
+Built in the 19th century as the Church of Notre Dame du Rosaire, the iconic building that now operates as Yeldeğirmeni Sanat will host performances and workshops on January 20-21
+
+# Live Coding
+*2024 - Live coding, Supercollider, Flucoma*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8-5k5Qdl9y0?si=y8eHlt-X5ZyzZhfn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+“Compophonic Sessions Vol. 1” A live computer music event  
+Venue: İTÜ MIAM Gallery, Istanbul  
+Date/time: 23 May 2024, 19:00  
 
 # Aeolian Resonz 
 
@@ -72,11 +86,21 @@ See details and performance videos [here](https://serkansevilgen.com/projects/ge
 The sound materials for the piece are the recordings of the police helicopters that I made from my home window during the Women’s March at Istiklal Street on March 8th, 2021. I extracted 15 audio files after an hour of recording that you hear a helicopter comes into the soundscape and goes. The sound doesn’t move circularly in 8-channel diffusion but goes across the listening hall from many directions to eventually build up a thick and almost suffocating soundscape above the audience.  
 
 
-# Sounding Microcosmos (w. Ipek Oskay)
+# Sounding Microcosmos at SMC 2022
 
 *2022 - Live electronics, networked music, web audio, Python, Arduino, Csound*  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-ARbqdgwxSU?si=YKXgGkqiQ0kmgxvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TTVXINK9gZA?si=Isz2L5HQK6JUC_3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+A real-time, telematic, biodata sonification project with Ipek Oskay. It was performed at **NIME 2022**, **SMC 22**, **Taking Place and Making Place Conference**, **Earth Day Art Model Telematic Festival**.  
+
+See details and performance videos [here](https://serkansevilgen.com/sounding-microcosmos/)  
+
+# Sounding Microcosmos at Earth Day Art Model Telematic Festival 2022
+
+*2022 - Live electronics, networked music, web audio, Python, Arduino, Csound*  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ud1cmRxGNIs?si=ngkkJ2Wso7dbBrZR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 A real-time, telematic, biodata sonification project with Ipek Oskay. It was performed at **NIME 2022**, **SMC 22**, **Taking Place and Making Place Conference**, **Earth Day Art Model Telematic Festival**.  
 
