@@ -18,6 +18,10 @@ The sonic material of this piece is derived from field recordings captured durin
 
 8-channel stems available upon request.
 
+# MIAM Gendy Ensemble Distributed Concert: Antwerp ~ Istanbul ~ Web (11 March 2025)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fc3YTPw0_7I?si=hDRz1qy4Jq45x5Gr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Live Networked Music 
 *2024 - Gendy Cloud, web audio, Csound, networked music*
 
