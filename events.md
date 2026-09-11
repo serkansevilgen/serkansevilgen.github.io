@@ -1,9 +1,73 @@
 ---
 title: Recent Events
 ---
+- **NOIS//E 2026 Festival and Symposium**  
+Milan (Italy), 13 - 15 November 2026  
+The fixed-media composition "Latentscape n.3" was invited to the Acousmatic Listening Room programme.  
+[NOIS//E](https://www.noislashe.com/)  
+
+- **CMS/ATMI 2026 National Conference**  
+Grand Rapids, Michigan (USA), 12 - 13 November 2026  
+Composition submission was accepted for presentation at ATMI 2026, the Association for Technology in Music Instruction's national conference.  
+[Conference website](https://www.atmimusic.com/conferences/2026-atmi-cms-national-convention/)  
+[CMS conference overview](https://www.music.org/2026-natl-overview.html)  
+
+- **ICSC 2026 - 8th International Csound Conference**  
+Chiostro San Domenico, Trapani (Italy), 20 - 22 October 2026  
+The artistic work "Via Z Drive" was accepted for presentation.  
+[Conference website](https://csound.com/icsc2026/)  
+
+- **Radiophrenia 2026**  
+Glasgow (Scotland) and online, 10 September 2026  
+The binaural fixed-media computer music piece "Transfigured Walls" aired as part of "Buffer Zone" in Radiophrenia's "The Light at the End of the Dial" broadcasts.  
+[Radiophrenia](https://radiophrenia.scot/)  
+[Schedule](https://radiophrenia.scot/calendar/thu-10/)  
+[Schedule PDF](docs/radiophrenia-2026-thu-10.pdf)  
+
+- **NYCEMF - The New York City Electroacoustic Music Festival**  
+Fulton J. Sheen Center, New York (USA), 19 - 25 June 2026  
+The fixed-media piece "Nophesis" was presented in Concert 11.  
+[Program booklet](docs/nycemf-2026-program-book.pdf)  
+
+- **SONIFIED IV - A Symposium of Sonic Practices**  
+Arter Museum, Istanbul, 8 - 9 May 2026  
+Presented the fixed-media composition "Latentscape n.3" as part of PolyCube v.1.0, an 8-channel speaker cube installation by MİAM SoundLab.  
+[Program booklet](docs/sonified-2026-short-program-30-04-26.pdf)  
+
+- **SONIFIED IV - A Symposium of Sonic Practices**  
+Arter Museum, Istanbul, 8 - 9 May 2026  
+Panel participant in "Building a Community-based, Maker-driven Project Space", presenting the establishment of MİAM SoundLab with Sair Sinan Kestelli, Ayşe Yörükoğlu, Baturalp Özcan, Ceren Yaygın, and Görkem Yılmaz.  
+[Program booklet](docs/sonified-2026-short-program-30-04-26.pdf)  
+
+- **SONIFIED IV - A Symposium of Sonic Practices**  
+Arter Museum, Istanbul, 8 - 9 May 2026  
+Led the "Network Music Performance (NMP)" workshop, introducing participants to real-time musical collaboration over the internet using Remote OSC.  
+[Program booklet](docs/sonified-2026-short-program-30-04-26.pdf)  
+
+- **Convergence Seminar 2026**  
+Royal Conservatoire Antwerp, Antwerp (Belgium), 23 - 24 March 2026  
+Presented "Re-Coupling Gesture and Sound in Digital Musical Instruments: A Timbre-Driven Mapping Strategy."  
+[Convergence 2026](https://www.uantwerpen.be/en/research-groups/aria/activities/research-seminars/convergence2026/)  
+[Abstract](docs/Serkan-Sevilgen_convergence-2026_abstract.pdf)  
+
+- **Audio Parazit Dışarıda #3**  
+Mekan Eksi On Altı, Istanbul, 22 February 2026  
+Panelist for "Computer Music and Live Coding Practice in the Context of the Relationship Between Technology and Performance" with Katia Merdinoğlu; moderated by Aslı Kobaner, Gökçe Uygun, and Yaren Eren Budak.  
+The panel discussion was aired on Apaçık Radyo and is available as a podcast. Audio Parazit is a radio program that brings listeners sounds left in the shadow of the mainstream, experimental music scenes, and avant-garde practices.  
+[Event poster](https://www.instagram.com/p/DVBcJiQjO3a/)  
+[Podcast](https://apacikradyo.com.tr/podcast/audio-parazit/1-ana-akimin-golgesinde-audio-parazit)  
+[Audio Parazit](https://apacikradyo.com.tr/program/audio-parazit)  
+
+- **Audio Parazit Dışarıda #3**  
+Mekan Eksi On Altı, Istanbul, 22 February 2026  
+Performed "Gendy Cloud" as an audience-participatory live performance.  
+Audio Parazit is a radio program that brings listeners sounds left in the shadow of the mainstream, experimental music scenes, and avant-garde practices.  
+[Event poster](https://www.instagram.com/p/DVBcJiQjO3a/)  
+[Audio Parazit](https://apacikradyo.com.tr/program/audio-parazit)  
+
 - **AMFIBIO Sound Days**  
 Artistanbul Feshane, Istanbul, 21 September 2025  
-MIAM Gendy Ensemble performed live compositions of 7 composers through the speakers of the work by Cevdet Erek,  commisioned by La Biennale di Venezia  
+MIAM Gendy Ensemble performed live compositions of seven composers through the speakers of the work by Cevdet Erek,  commisioned by La Biennale di Venezia  
 [Event page](https://www.labiennale.org/en/news/la-biennale-di-venezia-presents-amfibio-sound-days)  
 [PDF](https://www.iksv.org/i/assets//iksv/documents/amfibio_iksv.pdf)  
 [Program Notes](https://drive.google.com/file/d/17J_Fe6mY-XFf2wD_JOUZHiU1I0GzUtr0/view)  
@@ -11,7 +75,7 @@ MIAM Gendy Ensemble performed live compositions of 7 composers through the speak
 
 - **Noise Media Art OI_SONIC**  
 Bomontiada, Istanbul, 21 September 2025  
-MIAM Gendy Ensemble performed live compositions of 7 composers.  
+MIAM Gendy Ensemble performed live compositions of seven composers.  
 [Post](https://www.instagram.com/p/DO1IgraiKou/?img_index=1)  
 [Program Notes](https://drive.google.com/file/d/1z0WyI7zWJQ-AwYLGCxtIIuhtZqecAPMt/view)  
 
@@ -437,4 +501,3 @@ Salt Beyoglu, Istanbul - 25 April 2019
 A soundcape composition "Strng Wnd" was presented  
 [Event poster](https://www.instagram.com/p/BwrnYKcgpVr/)  
 [Video](https://www.facebook.com/watch/?v=391104311474341)  
-
