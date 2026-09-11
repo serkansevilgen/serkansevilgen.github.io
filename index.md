@@ -14,7 +14,7 @@ Serkan Sevilgen, İstanbul merkezli bir bilgisayar programcısı, elektroakustik
 
 **CONTACT** at <a href="javascript:location='mailto:\u0073\u0073\u0065\u0076\u0069\u006c\u0067\u0065\u006e\u0040\u0067\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d';void 0"><script type="text/javascript">document.write('\u0073\u0073\u0065\u0076\u0069\u006c\u0067\u0065\u006e\u0040\u0067\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d')</script></a>
 
-[**CV**](/docs/Serkan-Sevilgen-CV-tabular.pdf)  
+[**CV**](/docs/Serkan-Sevilgen-CV.pdf)  
 
 [**RECENT EVENTS**](/events.html)  
 

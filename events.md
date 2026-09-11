@@ -121,6 +121,13 @@ Concert by students of the Department of Composition and Sonic Arts of the MIAM 
 [Musik21 Niedersachsen](https://musik21niedersachsen.de/veranstaltung/podium-fuer-miam)   
 [STADTKIND - hannovermagazin](https://www.stadtkind-kalender.de/event/podium-f%C3%BCr-miam)
 
+<a id="event-2025-nime-new-interfaces-for-musical-expression-2025-peer-review"></a>
+- **NIME - New Interfaces for Musical Expression 2025**  
+The Australian National University, Canberra (Australia) and online, 24 - 27 June 2025  
+Served as a peer reviewer for the paper and music tracks.  
+[Conference website](https://nime2025.org/)  
+[NIME reviewers](https://nime.org/reviewers/)  
+
 <a id="event-2025-sonified-a-symposium-of-sonic-practices"></a>
 - **SONIFIED - A Symposium of Sonic Practices**  
 Arter Museum, Istanbul, 9 - 10 May 2025  
