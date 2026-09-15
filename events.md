@@ -1,6 +1,12 @@
 ---
 title: Recent Events
 ---
+<a id="event-2026-ai-music-lab-2026"></a>
+- **AI Music Lab: International Conference on Artificial Intelligence in the Musical Creative Process**  
+UAX Performing Arts Campus, Madrid (Spain), 27 – 28 November 2026  
+My research "Re-Coupling Gesture and Sound in Digital Musical Instruments: A Timbre-Driven Mapping Strategy" has been accepted for presentation.  
+[Conference website](https://www.uax.com/en/faculties-and-centres/ai-music-lab/)  
+
 <a id="event-2026-nois-e-2026-festival-and-symposium"></a>
 - **NOIS//E 2026 Festival and Symposium**  
 Milan (Italy), 13 - 15 November 2026  
@@ -98,14 +104,12 @@ MIAM Gendy Ensemble performed live compositions of seven composers through the s
 [PDF](https://www.iksv.org/i/assets//iksv/documents/amfibio_iksv.pdf)  
 [Program Notes](https://drive.google.com/file/d/17J_Fe6mY-XFf2wD_JOUZHiU1I0GzUtr0/view)  
 
-
 <a id="event-2025-noise-media-art-oi-sonic"></a>
 - **Noise Media Art OI_SONIC**  
 Bomontiada, Istanbul, 21 September 2025  
 MIAM Gendy Ensemble performed live compositions of seven composers.  
 [Post](https://www.instagram.com/p/DO1IgraiKou/?img_index=1)  
 [Program Notes](https://drive.google.com/file/d/1z0WyI7zWJQ-AwYLGCxtIIuhtZqecAPMt/view)  
-
 
 <a id="event-2025-noise-media-art-oi-sonic-2"></a>
 - **Noise Media Art OI_SONIC**  
