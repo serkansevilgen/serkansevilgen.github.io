@@ -1,10 +1,16 @@
 ---
 title: Recent Events
 ---
+<a id="event-2026-acmc-2026-australasian-computer-music-conference"></a>
+- **ACMC 2026 - Australasian Computer Music Conference**  
+University of Queensland, Brisbane (Australia), 7 – 8 December 2026  
+The fixed-media composition "Latentscape n.3" has been accepted for the concert program.  
+[Conference website](https://computermusic.org.au/conferences/acmc2026/)  
+
 <a id="event-2026-ai-music-lab-2026"></a>
 - **AI Music Lab: International Conference on Artificial Intelligence in the Musical Creative Process**  
 UAX Performing Arts Campus, Madrid (Spain), 27 – 28 November 2026  
-My research "Re-Coupling Gesture and Sound in Digital Musical Instruments: A Timbre-Driven Mapping Strategy" has been accepted for presentation.  
+My research "Re-Coupling Gesture and Sound in Digital Musical Instruments: A Timbre-Driven Mapping Strategy" has been accepted for a lecture-concert presentation.  
 [Conference website](https://www.uax.com/en/faculties-and-centres/ai-music-lab/)  
 
 <a id="event-2026-nois-e-2026-festival-and-symposium"></a>
